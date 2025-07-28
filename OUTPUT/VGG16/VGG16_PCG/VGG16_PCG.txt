@@ -1,0 +1,46 @@
+Epoch 1/100
+44/44 [==============================] - ETA: 0s - loss: 1.2102 - accuracy: 0.6880
+Epoch 1: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_1.keras
+44/44 [==============================] - 281s 6s/step - loss: 1.2102 - accuracy: 0.6880 - val_loss: 0.9155 - val_accuracy: 0.7108
+Epoch 2/100
+44/44 [==============================] - ETA: 0s - loss: 0.6663 - accuracy: 0.7110
+Epoch 2: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_2.keras
+44/44 [==============================] - 278s 6s/step - loss: 0.6663 - accuracy: 0.7110 - val_loss: 0.6065 - val_accuracy: 0.7108
+Epoch 3/100
+44/44 [==============================] - ETA: 0s - loss: 0.6135 - accuracy: 0.7110
+Epoch 3: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_3.keras
+44/44 [==============================] - 277s 6s/step - loss: 0.6135 - accuracy: 0.7110 - val_loss: 0.6052 - val_accuracy: 0.7108
+Epoch 4/100
+44/44 [==============================] - ETA: 0s - loss: 0.6254 - accuracy: 0.7110
+Epoch 4: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_4.keras
+44/44 [==============================] - 276s 6s/step - loss: 0.6254 - accuracy: 0.7110 - val_loss: 0.6170 - val_accuracy: 0.7108
+Epoch 5/100
+44/44 [==============================] - ETA: 0s - loss: 0.6076 - accuracy: 0.7110
+Epoch 5: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_5.keras
+44/44 [==============================] - 282s 6s/step - loss: 0.6076 - accuracy: 0.7110 - val_loss: 0.5949 - val_accuracy: 0.7108
+Epoch 6/100
+44/44 [==============================] - ETA: 0s - loss: 0.6424 - accuracy: 0.7121
+Epoch 6: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_6.keras
+44/44 [==============================] - 273s 6s/step - loss: 0.6424 - accuracy: 0.7121 - val_loss: 0.6011 - val_accuracy: 0.7108
+Epoch 7/100
+44/44 [==============================] - ETA: 0s - loss: 0.6039 - accuracy: 0.7110
+Epoch 7: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_7.keras
+44/44 [==============================] - 275s 6s/step - loss: 0.6039 - accuracy: 0.7110 - val_loss: 0.5927 - val_accuracy: 0.7108
+Epoch 8/100
+44/44 [==============================] - ETA: 0s - loss: 0.6422 - accuracy: 0.7024
+Epoch 8: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_8.keras
+44/44 [==============================] - 276s 6s/step - loss: 0.6422 - accuracy: 0.7024 - val_loss: 0.6492 - val_accuracy: 0.7108
+Epoch 9/100
+44/44 [==============================] - ETA: 0s - loss: 0.6301 - accuracy: 0.7110
+Epoch 9: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_9.keras
+44/44 [==============================] - 275s 6s/step - loss: 0.6301 - accuracy: 0.7110 - val_loss: 0.5954 - val_accuracy: 0.7108
+Epoch 10/100
+44/44 [==============================] - ETA: 0s - loss: 0.5923 - accuracy: 0.7110
+Epoch 10: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_10.keras
+44/44 [==============================] - 273s 6s/step - loss: 0.5923 - accuracy: 0.7110 - val_loss: 0.5904 - val_accuracy: 0.7108
+Epoch 11/100
+44/44 [==============================] - ETA: 0s - loss: 0.6180 - accuracy: 0.7110
+Epoch 11: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_PCG\VGG16_pcg_epoch_11.keras
+Restoring model weights from the end of the best epoch: 1.
+44/44 [==============================] - 320s 7s/step - loss: 0.6180 - accuracy: 0.7110 - val_loss: 0.5914 - val_accuracy: 0.7108
+Epoch 11: early stopping

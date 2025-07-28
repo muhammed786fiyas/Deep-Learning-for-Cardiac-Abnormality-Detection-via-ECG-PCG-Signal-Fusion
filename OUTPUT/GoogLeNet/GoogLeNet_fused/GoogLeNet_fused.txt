@@ -1,0 +1,404 @@
+Epoch 1/100
+WARNING:tensorflow:From c:\Users\muham\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+WARNING:tensorflow:From c:\Users\muham\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+44/44 [==============================] - ETA: 0s - loss: 0.5310 - accuracy: 0.9457 - precision: 0.9442 - recall: 0.9826 - f1_score: 0.9623
+Epoch 1: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_1.keras
+44/44 [==============================] - 528s 11s/step - loss: 0.5310 - accuracy: 0.9457 - precision: 0.9442 - recall: 0.9826 - f1_score: 0.9623 - val_loss: 0.5726 - val_accuracy: 0.8434 - val_precision: 0.8324 - val_recall: 0.9621 - val_f1_score: 0.8920
+Epoch 2/100
+44/44 [==============================] - ETA: 0s - loss: 0.5006 - accuracy: 0.9216 - precision: 0.9326 - recall: 0.9604 - f1_score: 0.9453
+Epoch 2: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_2.keras
+44/44 [==============================] - 397s 9s/step - loss: 0.5006 - accuracy: 0.9216 - precision: 0.9326 - recall: 0.9604 - f1_score: 0.9453 - val_loss: 0.5618 - val_accuracy: 0.8362 - val_precision: 0.8132 - val_recall: 0.9854 - val_f1_score: 0.8901
+Epoch 3/100
+44/44 [==============================] - ETA: 0s - loss: 0.4960 - accuracy: 0.9011 - precision: 0.9076 - recall: 0.9630 - f1_score: 0.9332
+Epoch 3: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_3.keras
+44/44 [==============================] - 410s 9s/step - loss: 0.4960 - accuracy: 0.9011 - precision: 0.9076 - recall: 0.9630 - f1_score: 0.9332 - val_loss: 0.6229 - val_accuracy: 0.8534 - val_precision: 0.8796 - val_recall: 0.9090 - val_f1_score: 0.8929
+Epoch 4/100
+44/44 [==============================] - ETA: 0s - loss: 0.4815 - accuracy: 0.7997 - precision: 0.7971 - recall: 0.9792 - f1_score: 0.8759
+Epoch 4: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_4.keras
+44/44 [==============================] - 388s 9s/step - loss: 0.4815 - accuracy: 0.7997 - precision: 0.7971 - recall: 0.9792 - f1_score: 0.8759 - val_loss: 0.6018 - val_accuracy: 0.8779 - val_precision: 0.8748 - val_recall: 0.9597 - val_f1_score: 0.9138
+Epoch 5/100
+44/44 [==============================] - ETA: 0s - loss: 0.4848 - accuracy: 0.7555 - precision: 0.7502 - recall: 0.9923 - f1_score: 0.8531
+Epoch 5: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_5.keras
+44/44 [==============================] - 380s 9s/step - loss: 0.4848 - accuracy: 0.7555 - precision: 0.7502 - recall: 0.9923 - f1_score: 0.8531 - val_loss: 0.6664 - val_accuracy: 0.6825 - val_precision: 0.6806 - val_recall: 1.0000 - val_f1_score: 0.8090
+Epoch 6/100
+44/44 [==============================] - ETA: 0s - loss: 0.4777 - accuracy: 0.7659 - precision: 0.7576 - recall: 0.9933 - f1_score: 0.8579
+Epoch 6: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_6.keras
+44/44 [==============================] - 387s 9s/step - loss: 0.4777 - accuracy: 0.7659 - precision: 0.7576 - recall: 0.9933 - f1_score: 0.8579 - val_loss: 0.6654 - val_accuracy: 0.6767 - val_precision: 0.6765 - val_recall: 1.0000 - val_f1_score: 0.8063
+Epoch 7/100
+44/44 [==============================] - ETA: 0s - loss: 0.4832 - accuracy: 0.7634 - precision: 0.7548 - recall: 0.9897 - f1_score: 0.8552
+Epoch 7: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_7.keras
+44/44 [==============================] - 399s 9s/step - loss: 0.4832 - accuracy: 0.7634 - precision: 0.7548 - recall: 0.9897 - f1_score: 0.8552 - val_loss: 0.6295 - val_accuracy: 0.7744 - val_precision: 0.7969 - val_recall: 0.8976 - val_f1_score: 0.8429
+Epoch 8/100
+44/44 [==============================] - ETA: 0s - loss: 0.4939 - accuracy: 0.7652 - precision: 0.7636 - recall: 0.9791 - f1_score: 0.8567
+Epoch 8: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_8.keras
+44/44 [==============================] - 376s 9s/step - loss: 0.4939 - accuracy: 0.7652 - precision: 0.7636 - recall: 0.9791 - f1_score: 0.8567 - val_loss: 0.9027 - val_accuracy: 0.3233 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_f1_score: 0.0000e+00
+Epoch 9/100
+44/44 [==============================] - ETA: 0s - loss: 0.4807 - accuracy: 0.7645 - precision: 0.7571 - recall: 0.9943 - f1_score: 0.8578
+Epoch 9: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_9.keras
+44/44 [==============================] - 390s 9s/step - loss: 0.4807 - accuracy: 0.7645 - precision: 0.7571 - recall: 0.9943 - f1_score: 0.8578 - val_loss: 0.8967 - val_accuracy: 0.3319 - val_precision: 0.4091 - val_recall: 0.0141 - val_f1_score: 0.0271
+Epoch 10/100
+44/44 [==============================] - ETA: 0s - loss: 0.4747 - accuracy: 0.7706 - precision: 0.7649 - recall: 0.9856 - f1_score: 0.8599
+Epoch 10: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_10.keras
+44/44 [==============================] - 395s 9s/step - loss: 0.4747 - accuracy: 0.7706 - precision: 0.7649 - recall: 0.9856 - f1_score: 0.8599 - val_loss: 0.9019 - val_accuracy: 0.3233 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_f1_score: 0.0000e+00
+Epoch 11/100
+44/44 [==============================] - ETA: 0s - loss: 0.4715 - accuracy: 0.7781 - precision: 0.7695 - recall: 0.9895 - f1_score: 0.8643
+Epoch 11: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_11.keras
+44/44 [==============================] - 378s 9s/step - loss: 0.4715 - accuracy: 0.7781 - precision: 0.7695 - recall: 0.9895 - f1_score: 0.8643 - val_loss: 0.6079 - val_accuracy: 0.7773 - val_precision: 0.7990 - val_recall: 0.8948 - val_f1_score: 0.8417
+Epoch 12/100
+44/44 [==============================] - ETA: 0s - loss: 0.4414 - accuracy: 0.8040 - precision: 0.7929 - recall: 0.9835 - f1_score: 0.8771
+Epoch 12: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_12.keras
+44/44 [==============================] - 379s 9s/step - loss: 0.4414 - accuracy: 0.8040 - precision: 0.7929 - recall: 0.9835 - f1_score: 0.8771 - val_loss: 0.5756 - val_accuracy: 0.8405 - val_precision: 0.8617 - val_recall: 0.9128 - val_f1_score: 0.8851
+Epoch 13/100
+44/44 [==============================] - ETA: 0s - loss: 0.4052 - accuracy: 0.8098 - precision: 0.7951 - recall: 0.9922 - f1_score: 0.8815
+Epoch 13: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_13.keras
+44/44 [==============================] - 416s 10s/step - loss: 0.4052 - accuracy: 0.8098 - precision: 0.7951 - recall: 0.9922 - f1_score: 0.8815 - val_loss: 0.4417 - val_accuracy: 0.7888 - val_precision: 0.7685 - val_recall: 0.9848 - val_f1_score: 0.8627
+Epoch 14/100
+44/44 [==============================] - ETA: 0s - loss: 0.3868 - accuracy: 0.8292 - precision: 0.8105 - recall: 0.9968 - f1_score: 0.8926
+Epoch 14: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_14.keras
+44/44 [==============================] - 378s 9s/step - loss: 0.3868 - accuracy: 0.8292 - precision: 0.8105 - recall: 0.9968 - f1_score: 0.8926 - val_loss: 0.5181 - val_accuracy: 0.9167 - val_precision: 0.9121 - val_recall: 0.9712 - val_f1_score: 0.9400
+Epoch 15/100
+44/44 [==============================] - ETA: 0s - loss: 0.3930 - accuracy: 0.8303 - precision: 0.8133 - recall: 0.9927 - f1_score: 0.8925
+Epoch 15: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_15.keras
+44/44 [==============================] - 390s 9s/step - loss: 0.3930 - accuracy: 0.8303 - precision: 0.8133 - recall: 0.9927 - f1_score: 0.8925 - val_loss: 0.5315 - val_accuracy: 0.8937 - val_precision: 0.8762 - val_recall: 0.9812 - val_f1_score: 0.9253
+Epoch 16/100
+44/44 [==============================] - ETA: 0s - loss: 0.3613 - accuracy: 0.8414 - precision: 0.8229 - recall: 0.9967 - f1_score: 0.9006
+Epoch 16: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_16.keras
+44/44 [==============================] - 381s 9s/step - loss: 0.3613 - accuracy: 0.8414 - precision: 0.8229 - recall: 0.9967 - f1_score: 0.9006 - val_loss: 0.5683 - val_accuracy: 0.8333 - val_precision: 0.9448 - val_recall: 0.7989 - val_f1_score: 0.8645
+Epoch 17/100
+44/44 [==============================] - ETA: 0s - loss: 0.3504 - accuracy: 0.8472 - precision: 0.8280 - recall: 0.9968 - f1_score: 0.9036
+Epoch 17: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_17.keras
+44/44 [==============================] - 399s 9s/step - loss: 0.3504 - accuracy: 0.8472 - precision: 0.8280 - recall: 0.9968 - f1_score: 0.9036 - val_loss: 0.5089 - val_accuracy: 0.9037 - val_precision: 0.8913 - val_recall: 0.9785 - val_f1_score: 0.9321
+Epoch 18/100
+44/44 [==============================] - ETA: 0s - loss: 0.3371 - accuracy: 0.8583 - precision: 0.8383 - recall: 0.9963 - f1_score: 0.9093
+Epoch 18: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_18.keras
+44/44 [==============================] - 397s 9s/step - loss: 0.3371 - accuracy: 0.8583 - precision: 0.8383 - recall: 0.9963 - f1_score: 0.9093 - val_loss: 0.4227 - val_accuracy: 0.9080 - val_precision: 0.9025 - val_recall: 0.9681 - val_f1_score: 0.9337
+Epoch 19/100
+44/44 [==============================] - ETA: 0s - loss: 0.3406 - accuracy: 0.8580 - precision: 0.8384 - recall: 0.9926 - f1_score: 0.9078
+Epoch 19: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_19.keras
+44/44 [==============================] - 379s 9s/step - loss: 0.3406 - accuracy: 0.8580 - precision: 0.8384 - recall: 0.9926 - f1_score: 0.9078 - val_loss: 0.4500 - val_accuracy: 0.8520 - val_precision: 0.8713 - val_recall: 0.9179 - val_f1_score: 0.8935
+Epoch 20/100
+44/44 [==============================] - ETA: 0s - loss: 0.3454 - accuracy: 0.8590 - precision: 0.8418 - recall: 0.9929 - f1_score: 0.9100
+Epoch 20: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_20.keras
+44/44 [==============================] - 415s 9s/step - loss: 0.3454 - accuracy: 0.8590 - precision: 0.8418 - recall: 0.9929 - f1_score: 0.9100 - val_loss: 0.4976 - val_accuracy: 0.9138 - val_precision: 0.9203 - val_recall: 0.9558 - val_f1_score: 0.9368
+Epoch 21/100
+44/44 [==============================] - ETA: 0s - loss: 0.3208 - accuracy: 0.8738 - precision: 0.8534 - recall: 0.9973 - f1_score: 0.9188
+Epoch 21: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_21.keras
+44/44 [==============================] - 376s 9s/step - loss: 0.3208 - accuracy: 0.8738 - precision: 0.8534 - recall: 0.9973 - f1_score: 0.9188 - val_loss: 0.4387 - val_accuracy: 0.6767 - val_precision: 0.6765 - val_recall: 1.0000 - val_f1_score: 0.8063
+Epoch 22/100
+44/44 [==============================] - ETA: 0s - loss: 0.3056 - accuracy: 0.8864 - precision: 0.8685 - recall: 0.9937 - f1_score: 0.9262
+Epoch 22: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_22.keras
+44/44 [==============================] - 389s 9s/step - loss: 0.3056 - accuracy: 0.8864 - precision: 0.8685 - recall: 0.9937 - f1_score: 0.9262 - val_loss: 0.3508 - val_accuracy: 0.8621 - val_precision: 0.8326 - val_recall: 0.9958 - val_f1_score: 0.9062
+Epoch 23/100
+44/44 [==============================] - ETA: 0s - loss: 0.3027 - accuracy: 0.8896 - precision: 0.8701 - recall: 0.9956 - f1_score: 0.9278
+Epoch 23: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_23.keras
+44/44 [==============================] - 380s 9s/step - loss: 0.3027 - accuracy: 0.8896 - precision: 0.8701 - recall: 0.9956 - f1_score: 0.9278 - val_loss: 0.4549 - val_accuracy: 0.9037 - val_precision: 0.9702 - val_recall: 0.8844 - val_f1_score: 0.9249
+Epoch 24/100
+44/44 [==============================] - ETA: 0s - loss: 0.2859 - accuracy: 0.9033 - precision: 0.8855 - recall: 0.9948 - f1_score: 0.9363
+Epoch 24: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_24.keras
+44/44 [==============================] - 449s 10s/step - loss: 0.2859 - accuracy: 0.9033 - precision: 0.8855 - recall: 0.9948 - f1_score: 0.9363 - val_loss: 0.5052 - val_accuracy: 0.8908 - val_precision: 0.9446 - val_recall: 0.8929 - val_f1_score: 0.9168
+Epoch 25/100
+44/44 [==============================] - ETA: 0s - loss: 0.2776 - accuracy: 0.9018 - precision: 0.8841 - recall: 0.9934 - f1_score: 0.9349
+Epoch 25: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_25.keras
+44/44 [==============================] - 378s 9s/step - loss: 0.2776 - accuracy: 0.9018 - precision: 0.8841 - recall: 0.9934 - f1_score: 0.9349 - val_loss: 0.3912 - val_accuracy: 0.7328 - val_precision: 0.7181 - val_recall: 0.9960 - val_f1_score: 0.8337
+Epoch 26/100
+44/44 [==============================] - ETA: 0s - loss: 0.2587 - accuracy: 0.9141 - precision: 0.8945 - recall: 0.9969 - f1_score: 0.9421
+Epoch 26: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_26.keras
+44/44 [==============================] - 373s 9s/step - loss: 0.2587 - accuracy: 0.9141 - precision: 0.8945 - recall: 0.9969 - f1_score: 0.9421 - val_loss: 0.3968 - val_accuracy: 0.7170 - val_precision: 0.7051 - val_recall: 0.9978 - val_f1_score: 0.8257
+Epoch 27/100
+44/44 [==============================] - ETA: 0s - loss: 0.2703 - accuracy: 0.9115 - precision: 0.8930 - recall: 0.9960 - f1_score: 0.9409
+Epoch 27: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_27.keras
+44/44 [==============================] - 408s 9s/step - loss: 0.2703 - accuracy: 0.9115 - precision: 0.8930 - recall: 0.9960 - f1_score: 0.9409 - val_loss: 0.4052 - val_accuracy: 0.6897 - val_precision: 0.6854 - val_recall: 1.0000 - val_f1_score: 0.8126
+Epoch 28/100
+44/44 [==============================] - ETA: 0s - loss: 0.2535 - accuracy: 0.9256 - precision: 0.9087 - recall: 0.9959 - f1_score: 0.9496
+Epoch 28: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_28.keras
+44/44 [==============================] - 381s 9s/step - loss: 0.2535 - accuracy: 0.9256 - precision: 0.9087 - recall: 0.9959 - f1_score: 0.9496 - val_loss: 0.3814 - val_accuracy: 0.8032 - val_precision: 0.7807 - val_recall: 0.9850 - val_f1_score: 0.8707
+Epoch 29/100
+44/44 [==============================] - ETA: 0s - loss: 0.2407 - accuracy: 0.9195 - precision: 0.9044 - recall: 0.9949 - f1_score: 0.9467
+Epoch 29: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_29.keras
+44/44 [==============================] - 459s 11s/step - loss: 0.2407 - accuracy: 0.9195 - precision: 0.9044 - recall: 0.9949 - f1_score: 0.9467 - val_loss: 0.2960 - val_accuracy: 0.9210 - val_precision: 0.9096 - val_recall: 0.9810 - val_f1_score: 0.9433
+Epoch 30/100
+44/44 [==============================] - ETA: 0s - loss: 0.2281 - accuracy: 0.9320 - precision: 0.9166 - recall: 0.9968 - f1_score: 0.9545
+Epoch 30: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_30.keras
+44/44 [==============================] - 405s 9s/step - loss: 0.2281 - accuracy: 0.9320 - precision: 0.9166 - recall: 0.9968 - f1_score: 0.9545 - val_loss: 0.3072 - val_accuracy: 0.8606 - val_precision: 0.8293 - val_recall: 1.0000 - val_f1_score: 0.9063
+Epoch 31/100
+44/44 [==============================] - ETA: 0s - loss: 0.2266 - accuracy: 0.9367 - precision: 0.9213 - recall: 0.9966 - f1_score: 0.9564
+Epoch 31: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_31.keras
+44/44 [==============================] - 408s 9s/step - loss: 0.2266 - accuracy: 0.9367 - precision: 0.9213 - recall: 0.9966 - f1_score: 0.9564 - val_loss: 0.2906 - val_accuracy: 0.8693 - val_precision: 0.8467 - val_recall: 0.9855 - val_f1_score: 0.9101
+Epoch 32/100
+44/44 [==============================] - ETA: 0s - loss: 0.2138 - accuracy: 0.9378 - precision: 0.9195 - recall: 0.9986 - f1_score: 0.9568
+Epoch 32: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_32.keras
+44/44 [==============================] - 392s 9s/step - loss: 0.2138 - accuracy: 0.9378 - precision: 0.9195 - recall: 0.9986 - f1_score: 0.9568 - val_loss: 0.3004 - val_accuracy: 0.9152 - val_precision: 0.8933 - val_recall: 0.9939 - val_f1_score: 0.9404
+Epoch 33/100
+44/44 [==============================] - ETA: 0s - loss: 0.2039 - accuracy: 0.9486 - precision: 0.9350 - recall: 0.9976 - f1_score: 0.9649
+Epoch 33: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_33.keras
+44/44 [==============================] - 390s 9s/step - loss: 0.2039 - accuracy: 0.9486 - precision: 0.9350 - recall: 0.9976 - f1_score: 0.9649 - val_loss: 0.2858 - val_accuracy: 0.8606 - val_precision: 0.8367 - val_recall: 0.9884 - val_f1_score: 0.9051
+Epoch 34/100
+44/44 [==============================] - ETA: 0s - loss: 0.1903 - accuracy: 0.9525 - precision: 0.9383 - recall: 0.9991 - f1_score: 0.9674
+Epoch 34: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_34.keras
+44/44 [==============================] - 411s 9s/step - loss: 0.1903 - accuracy: 0.9525 - precision: 0.9383 - recall: 0.9991 - f1_score: 0.9674 - val_loss: 0.2985 - val_accuracy: 0.8175 - val_precision: 0.7888 - val_recall: 0.9981 - val_f1_score: 0.8805
+Epoch 35/100
+44/44 [==============================] - ETA: 0s - loss: 0.1879 - accuracy: 0.9540 - precision: 0.9409 - recall: 0.9991 - f1_score: 0.9687
+Epoch 35: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_35.keras
+44/44 [==============================] - 388s 9s/step - loss: 0.1879 - accuracy: 0.9540 - precision: 0.9409 - recall: 0.9991 - f1_score: 0.9687 - val_loss: 0.4379 - val_accuracy: 0.9023 - val_precision: 0.8822 - val_recall: 0.9879 - val_f1_score: 0.9316
+Epoch 36/100
+44/44 [==============================] - ETA: 0s - loss: 0.1772 - accuracy: 0.9561 - precision: 0.9418 - recall: 0.9995 - f1_score: 0.9693
+Epoch 36: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_36.keras
+44/44 [==============================] - 432s 10s/step - loss: 0.1772 - accuracy: 0.9561 - precision: 0.9418 - recall: 0.9995 - f1_score: 0.9693 - val_loss: 0.2509 - val_accuracy: 0.9339 - val_precision: 0.9246 - val_recall: 0.9835 - val_f1_score: 0.9528
+Epoch 37/100
+44/44 [==============================] - ETA: 0s - loss: 0.1671 - accuracy: 0.9604 - precision: 0.9481 - recall: 0.9986 - f1_score: 0.9721
+Epoch 37: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_37.keras
+44/44 [==============================] - 491s 11s/step - loss: 0.1671 - accuracy: 0.9604 - precision: 0.9481 - recall: 0.9986 - f1_score: 0.9721 - val_loss: 0.3053 - val_accuracy: 0.7931 - val_precision: 0.7706 - val_recall: 0.9891 - val_f1_score: 0.8651
+Epoch 38/100
+44/44 [==============================] - ETA: 0s - loss: 0.1823 - accuracy: 0.9536 - precision: 0.9403 - recall: 0.9982 - f1_score: 0.9679
+Epoch 38: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_38.keras
+44/44 [==============================] - 400s 9s/step - loss: 0.1823 - accuracy: 0.9536 - precision: 0.9403 - recall: 0.9982 - f1_score: 0.9679 - val_loss: 0.3005 - val_accuracy: 0.8491 - val_precision: 0.8250 - val_recall: 0.9845 - val_f1_score: 0.8972
+Epoch 39/100
+44/44 [==============================] - ETA: 0s - loss: 0.1772 - accuracy: 0.9533 - precision: 0.9399 - recall: 0.9976 - f1_score: 0.9675
+Epoch 39: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_39.keras
+44/44 [==============================] - 397s 9s/step - loss: 0.1772 - accuracy: 0.9533 - precision: 0.9399 - recall: 0.9976 - f1_score: 0.9675 - val_loss: 0.3533 - val_accuracy: 0.6825 - val_precision: 0.6802 - val_recall: 1.0000 - val_f1_score: 0.8090
+Epoch 40/100
+44/44 [==============================] - ETA: 0s - loss: 0.1786 - accuracy: 0.9576 - precision: 0.9442 - recall: 0.9986 - f1_score: 0.9701
+Epoch 40: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_40.keras
+44/44 [==============================] - 397s 9s/step - loss: 0.1786 - accuracy: 0.9576 - precision: 0.9442 - recall: 0.9986 - f1_score: 0.9701 - val_loss: 0.7558 - val_accuracy: 0.6767 - val_precision: 0.6765 - val_recall: 1.0000 - val_f1_score: 0.8063
+Epoch 41/100
+44/44 [==============================] - ETA: 0s - loss: 0.1792 - accuracy: 0.9511 - precision: 0.9381 - recall: 0.9972 - f1_score: 0.9662
+Epoch 41: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_41.keras
+44/44 [==============================] - 404s 9s/step - loss: 0.1792 - accuracy: 0.9511 - precision: 0.9381 - recall: 0.9972 - f1_score: 0.9662 - val_loss: 0.3521 - val_accuracy: 0.9540 - val_precision: 0.9762 - val_recall: 0.9569 - val_f1_score: 0.9656
+Epoch 42/100
+44/44 [==============================] - ETA: 0s - loss: 0.1523 - accuracy: 0.9630 - precision: 0.9523 - recall: 0.9995 - f1_score: 0.9750
+Epoch 42: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_42.keras
+44/44 [==============================] - 441s 10s/step - loss: 0.1523 - accuracy: 0.9630 - precision: 0.9523 - recall: 0.9995 - f1_score: 0.9750 - val_loss: 0.2985 - val_accuracy: 0.9339 - val_precision: 0.9204 - val_recall: 0.9894 - val_f1_score: 0.9530
+Epoch 43/100
+44/44 [==============================] - ETA: 0s - loss: 0.1470 - accuracy: 0.9619 - precision: 0.9505 - recall: 0.9986 - f1_score: 0.9736
+Epoch 43: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_43.keras
+44/44 [==============================] - 413s 9s/step - loss: 0.1470 - accuracy: 0.9619 - precision: 0.9505 - recall: 0.9986 - f1_score: 0.9736 - val_loss: 0.2383 - val_accuracy: 0.8764 - val_precision: 0.8526 - val_recall: 0.9876 - val_f1_score: 0.9146
+Epoch 44/100
+44/44 [==============================] - ETA: 0s - loss: 0.1444 - accuracy: 0.9673 - precision: 0.9572 - recall: 0.9991 - f1_score: 0.9775
+Epoch 44: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_44.keras
+44/44 [==============================] - 448s 10s/step - loss: 0.1444 - accuracy: 0.9673 - precision: 0.9572 - recall: 0.9991 - f1_score: 0.9775 - val_loss: 0.2466 - val_accuracy: 0.9124 - val_precision: 0.8946 - val_recall: 0.9900 - val_f1_score: 0.9392
+Epoch 45/100
+44/44 [==============================] - ETA: 0s - loss: 0.1405 - accuracy: 0.9687 - precision: 0.9594 - recall: 0.9981 - f1_score: 0.9782
+Epoch 45: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_45.keras
+44/44 [==============================] - 403s 9s/step - loss: 0.1405 - accuracy: 0.9687 - precision: 0.9594 - recall: 0.9981 - f1_score: 0.9782 - val_loss: 0.3389 - val_accuracy: 0.9569 - val_precision: 0.9741 - val_recall: 0.9622 - val_f1_score: 0.9678
+Epoch 46/100
+44/44 [==============================] - ETA: 0s - loss: 0.1262 - accuracy: 0.9723 - precision: 0.9647 - recall: 0.9987 - f1_score: 0.9811
+Epoch 46: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_46.keras
+44/44 [==============================] - 379s 9s/step - loss: 0.1262 - accuracy: 0.9723 - precision: 0.9647 - recall: 0.9987 - f1_score: 0.9811 - val_loss: 0.2479 - val_accuracy: 0.8376 - val_precision: 0.8105 - val_recall: 0.9919 - val_f1_score: 0.8915
+Epoch 47/100
+44/44 [==============================] - ETA: 0s - loss: 0.1201 - accuracy: 0.9766 - precision: 0.9691 - recall: 0.9996 - f1_score: 0.9840
+Epoch 47: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_47.keras
+44/44 [==============================] - 401s 9s/step - loss: 0.1201 - accuracy: 0.9766 - precision: 0.9691 - recall: 0.9996 - f1_score: 0.9840 - val_loss: 0.2089 - val_accuracy: 0.9411 - val_precision: 0.9268 - val_recall: 0.9920 - val_f1_score: 0.9579
+Epoch 48/100
+44/44 [==============================] - ETA: 0s - loss: 0.1263 - accuracy: 0.9694 - precision: 0.9596 - recall: 0.9991 - f1_score: 0.9788
+Epoch 48: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_48.keras
+44/44 [==============================] - 404s 9s/step - loss: 0.1263 - accuracy: 0.9694 - precision: 0.9596 - recall: 0.9991 - f1_score: 0.9788 - val_loss: 0.2623 - val_accuracy: 0.9167 - val_precision: 0.9090 - val_recall: 0.9739 - val_f1_score: 0.9399
+Epoch 49/100
+44/44 [==============================] - ETA: 0s - loss: 0.1249 - accuracy: 0.9727 - precision: 0.9631 - recall: 1.0000 - f1_score: 0.9810
+Epoch 49: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_49.keras
+44/44 [==============================] - 404s 9s/step - loss: 0.1249 - accuracy: 0.9727 - precision: 0.9631 - recall: 1.0000 - f1_score: 0.9810 - val_loss: 0.3945 - val_accuracy: 0.7299 - val_precision: 0.7158 - val_recall: 0.9962 - val_f1_score: 0.8322
+Epoch 50/100
+44/44 [==============================] - ETA: 0s - loss: 0.1150 - accuracy: 0.9777 - precision: 0.9704 - recall: 0.9995 - f1_score: 0.9846
+Epoch 50: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_50.keras
+44/44 [==============================] - 379s 9s/step - loss: 0.1150 - accuracy: 0.9777 - precision: 0.9704 - recall: 0.9995 - f1_score: 0.9846 - val_loss: 0.3086 - val_accuracy: 0.8563 - val_precision: 0.8282 - val_recall: 0.9941 - val_f1_score: 0.9032
+Epoch 51/100
+44/44 [==============================] - ETA: 0s - loss: 0.1043 - accuracy: 0.9809 - precision: 0.9745 - recall: 1.0000 - f1_score: 0.9869
+Epoch 51: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_51.keras
+44/44 [==============================] - 418s 10s/step - loss: 0.1043 - accuracy: 0.9809 - precision: 0.9745 - recall: 1.0000 - f1_score: 0.9869 - val_loss: 0.2729 - val_accuracy: 0.9770 - val_precision: 0.9816 - val_recall: 0.9862 - val_f1_score: 0.9836
+Epoch 52/100
+44/44 [==============================] - ETA: 0s - loss: 0.1001 - accuracy: 0.9813 - precision: 0.9747 - recall: 0.9996 - f1_score: 0.9869
+Epoch 52: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_52.keras
+44/44 [==============================] - 382s 9s/step - loss: 0.1001 - accuracy: 0.9813 - precision: 0.9747 - recall: 0.9996 - f1_score: 0.9869 - val_loss: 0.3504 - val_accuracy: 0.8046 - val_precision: 0.7778 - val_recall: 0.9963 - val_f1_score: 0.8730
+Epoch 53/100
+44/44 [==============================] - ETA: 0s - loss: 0.1070 - accuracy: 0.9777 - precision: 0.9704 - recall: 0.9996 - f1_score: 0.9846
+Epoch 53: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_53.keras
+44/44 [==============================] - 379s 9s/step - loss: 0.1070 - accuracy: 0.9777 - precision: 0.9704 - recall: 0.9996 - f1_score: 0.9846 - val_loss: 0.2540 - val_accuracy: 0.8635 - val_precision: 0.8555 - val_recall: 0.9610 - val_f1_score: 0.9044
+Epoch 54/100
+44/44 [==============================] - ETA: 0s - loss: 0.1042 - accuracy: 0.9759 - precision: 0.9687 - recall: 0.9982 - f1_score: 0.9830
+Epoch 54: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_54.keras
+44/44 [==============================] - 383s 9s/step - loss: 0.1042 - accuracy: 0.9759 - precision: 0.9687 - recall: 0.9982 - f1_score: 0.9830 - val_loss: 0.2252 - val_accuracy: 0.9009 - val_precision: 0.8923 - val_recall: 0.9734 - val_f1_score: 0.9303
+Epoch 55/100
+44/44 [==============================] - ETA: 0s - loss: 0.1048 - accuracy: 0.9748 - precision: 0.9664 - recall: 1.0000 - f1_score: 0.9827
+Epoch 55: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_55.keras
+44/44 [==============================] - 474s 11s/step - loss: 0.1048 - accuracy: 0.9748 - precision: 0.9664 - recall: 1.0000 - f1_score: 0.9827 - val_loss: 0.2499 - val_accuracy: 0.8161 - val_precision: 0.7895 - val_recall: 0.9915 - val_f1_score: 0.8786
+Epoch 56/100
+44/44 [==============================] - ETA: 0s - loss: 0.0960 - accuracy: 0.9802 - precision: 0.9738 - recall: 1.0000 - f1_score: 0.9866
+Epoch 56: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_56.keras
+44/44 [==============================] - 423s 9s/step - loss: 0.0960 - accuracy: 0.9802 - precision: 0.9738 - recall: 1.0000 - f1_score: 0.9866 - val_loss: 0.2287 - val_accuracy: 0.8578 - val_precision: 0.8272 - val_recall: 0.9978 - val_f1_score: 0.9037
+Epoch 57/100
+44/44 [==============================] - ETA: 0s - loss: 0.0898 - accuracy: 0.9813 - precision: 0.9749 - recall: 1.0000 - f1_score: 0.9872
+Epoch 57: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_57.keras
+44/44 [==============================] - 379s 9s/step - loss: 0.0898 - accuracy: 0.9813 - precision: 0.9749 - recall: 1.0000 - f1_score: 0.9872 - val_loss: 0.2191 - val_accuracy: 0.9698 - val_precision: 0.9763 - val_recall: 0.9786 - val_f1_score: 0.9773
+Epoch 58/100
+44/44 [==============================] - ETA: 0s - loss: 0.0877 - accuracy: 0.9827 - precision: 0.9766 - recall: 1.0000 - f1_score: 0.9880
+Epoch 58: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_58.keras
+44/44 [==============================] - 403s 9s/step - loss: 0.0877 - accuracy: 0.9827 - precision: 0.9766 - recall: 1.0000 - f1_score: 0.9880 - val_loss: 0.2876 - val_accuracy: 0.9454 - val_precision: 0.9582 - val_recall: 0.9616 - val_f1_score: 0.9592
+Epoch 59/100
+44/44 [==============================] - ETA: 0s - loss: 0.0902 - accuracy: 0.9791 - precision: 0.9711 - recall: 0.9996 - f1_score: 0.9849
+Epoch 59: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_59.keras
+44/44 [==============================] - 381s 9s/step - loss: 0.0902 - accuracy: 0.9791 - precision: 0.9711 - recall: 0.9996 - f1_score: 0.9849 - val_loss: 0.2115 - val_accuracy: 0.9569 - val_precision: 0.9603 - val_recall: 0.9770 - val_f1_score: 0.9683
+Epoch 60/100
+44/44 [==============================] - ETA: 0s - loss: 0.0844 - accuracy: 0.9813 - precision: 0.9741 - recall: 1.0000 - f1_score: 0.9867
+Epoch 60: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_60.keras
+44/44 [==============================] - 381s 9s/step - loss: 0.0844 - accuracy: 0.9813 - precision: 0.9741 - recall: 1.0000 - f1_score: 0.9867 - val_loss: 0.2755 - val_accuracy: 0.7586 - val_precision: 0.7366 - val_recall: 1.0000 - val_f1_score: 0.8477
+Epoch 61/100
+44/44 [==============================] - ETA: 0s - loss: 0.0858 - accuracy: 0.9820 - precision: 0.9747 - recall: 1.0000 - f1_score: 0.9870
+Epoch 61: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_61.keras
+44/44 [==============================] - 370s 8s/step - loss: 0.0858 - accuracy: 0.9820 - precision: 0.9747 - recall: 1.0000 - f1_score: 0.9870 - val_loss: 0.2134 - val_accuracy: 0.9023 - val_precision: 0.8930 - val_recall: 0.9726 - val_f1_score: 0.9307
+Epoch 62/100
+44/44 [==============================] - ETA: 0s - loss: 0.0867 - accuracy: 0.9802 - precision: 0.9728 - recall: 1.0000 - f1_score: 0.9860
+Epoch 62: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_62.keras
+44/44 [==============================] - 430s 10s/step - loss: 0.0867 - accuracy: 0.9802 - precision: 0.9728 - recall: 1.0000 - f1_score: 0.9860 - val_loss: 0.3021 - val_accuracy: 0.6954 - val_precision: 0.6892 - val_recall: 1.0000 - val_f1_score: 0.8153
+Epoch 63/100
+44/44 [==============================] - ETA: 0s - loss: 0.0811 - accuracy: 0.9824 - precision: 0.9762 - recall: 1.0000 - f1_score: 0.9878
+Epoch 63: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_63.keras
+44/44 [==============================] - 400s 9s/step - loss: 0.0811 - accuracy: 0.9824 - precision: 0.9762 - recall: 1.0000 - f1_score: 0.9878 - val_loss: 0.1856 - val_accuracy: 0.9210 - val_precision: 0.8996 - val_recall: 0.9957 - val_f1_score: 0.9448
+Epoch 64/100
+44/44 [==============================] - ETA: 0s - loss: 0.0761 - accuracy: 0.9838 - precision: 0.9779 - recall: 1.0000 - f1_score: 0.9886
+Epoch 64: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_64.keras
+44/44 [==============================] - 400s 9s/step - loss: 0.0761 - accuracy: 0.9838 - precision: 0.9779 - recall: 1.0000 - f1_score: 0.9886 - val_loss: 0.1827 - val_accuracy: 0.8951 - val_precision: 0.8706 - val_recall: 0.9940 - val_f1_score: 0.9279
+Epoch 65/100
+44/44 [==============================] - ETA: 0s - loss: 0.0724 - accuracy: 0.9842 - precision: 0.9784 - recall: 1.0000 - f1_score: 0.9890
+Epoch 65: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_65.keras
+44/44 [==============================] - 396s 9s/step - loss: 0.0724 - accuracy: 0.9842 - precision: 0.9784 - recall: 1.0000 - f1_score: 0.9890 - val_loss: 0.1695 - val_accuracy: 0.9454 - val_precision: 0.9323 - val_recall: 0.9918 - val_f1_score: 0.9608
+Epoch 66/100
+44/44 [==============================] - ETA: 0s - loss: 0.0704 - accuracy: 0.9849 - precision: 0.9792 - recall: 1.0000 - f1_score: 0.9894
+Epoch 66: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_66.keras
+44/44 [==============================] - 403s 9s/step - loss: 0.0704 - accuracy: 0.9849 - precision: 0.9792 - recall: 1.0000 - f1_score: 0.9894 - val_loss: 0.1777 - val_accuracy: 0.8879 - val_precision: 0.8600 - val_recall: 0.9960 - val_f1_score: 0.9226
+Epoch 67/100
+44/44 [==============================] - ETA: 0s - loss: 0.0721 - accuracy: 0.9842 - precision: 0.9783 - recall: 1.0000 - f1_score: 0.9889
+Epoch 67: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_67.keras
+44/44 [==============================] - 432s 10s/step - loss: 0.0721 - accuracy: 0.9842 - precision: 0.9783 - recall: 1.0000 - f1_score: 0.9889 - val_loss: 0.2075 - val_accuracy: 0.8606 - val_precision: 0.8325 - val_recall: 0.9935 - val_f1_score: 0.9053
+Epoch 68/100
+44/44 [==============================] - ETA: 0s - loss: 0.0753 - accuracy: 0.9838 - precision: 0.9781 - recall: 1.0000 - f1_score: 0.9888
+Epoch 68: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_68.keras
+44/44 [==============================] - 430s 10s/step - loss: 0.0753 - accuracy: 0.9838 - precision: 0.9781 - recall: 1.0000 - f1_score: 0.9888 - val_loss: 0.2817 - val_accuracy: 0.9425 - val_precision: 0.9815 - val_recall: 0.9315 - val_f1_score: 0.9555
+Epoch 69/100
+44/44 [==============================] - ETA: 0s - loss: 0.0912 - accuracy: 0.9770 - precision: 0.9702 - recall: 0.9990 - f1_score: 0.9841
+Epoch 69: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_69.keras
+44/44 [==============================] - 432s 10s/step - loss: 0.0912 - accuracy: 0.9770 - precision: 0.9702 - recall: 0.9990 - f1_score: 0.9841 - val_loss: 0.3691 - val_accuracy: 0.9468 - val_precision: 0.9385 - val_recall: 0.9850 - val_f1_score: 0.9611
+Epoch 70/100
+44/44 [==============================] - ETA: 0s - loss: 0.0877 - accuracy: 0.9795 - precision: 0.9721 - recall: 0.9995 - f1_score: 0.9854
+Epoch 70: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_70.keras
+44/44 [==============================] - 446s 10s/step - loss: 0.0877 - accuracy: 0.9795 - precision: 0.9721 - recall: 0.9995 - f1_score: 0.9854 - val_loss: 0.2071 - val_accuracy: 0.9670 - val_precision: 0.9730 - val_recall: 0.9793 - val_f1_score: 0.9759
+Epoch 71/100
+44/44 [==============================] - ETA: 0s - loss: 0.0686 - accuracy: 0.9853 - precision: 0.9804 - recall: 1.0000 - f1_score: 0.9900
+Epoch 71: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_71.keras
+44/44 [==============================] - 407s 9s/step - loss: 0.0686 - accuracy: 0.9853 - precision: 0.9804 - recall: 1.0000 - f1_score: 0.9900 - val_loss: 0.1797 - val_accuracy: 0.9339 - val_precision: 0.9246 - val_recall: 0.9821 - val_f1_score: 0.9521
+Epoch 72/100
+44/44 [==============================] - ETA: 0s - loss: 0.0642 - accuracy: 0.9856 - precision: 0.9806 - recall: 1.0000 - f1_score: 0.9901
+Epoch 72: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_72.keras
+44/44 [==============================] - 442s 10s/step - loss: 0.0642 - accuracy: 0.9856 - precision: 0.9806 - recall: 1.0000 - f1_score: 0.9901 - val_loss: 0.1980 - val_accuracy: 0.8721 - val_precision: 0.8468 - val_recall: 0.9917 - val_f1_score: 0.9127
+Epoch 73/100
+44/44 [==============================] - ETA: 0s - loss: 0.0696 - accuracy: 0.9849 - precision: 0.9796 - recall: 0.9995 - f1_score: 0.9893
+Epoch 73: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_73.keras
+44/44 [==============================] - 408s 9s/step - loss: 0.0696 - accuracy: 0.9849 - precision: 0.9796 - recall: 0.9995 - f1_score: 0.9893 - val_loss: 0.3434 - val_accuracy: 0.7730 - val_precision: 0.7511 - val_recall: 0.9940 - val_f1_score: 0.8547
+Epoch 74/100
+44/44 [==============================] - ETA: 0s - loss: 0.0805 - accuracy: 0.9791 - precision: 0.9726 - recall: 0.9991 - f1_score: 0.9855
+Epoch 74: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_74.keras
+44/44 [==============================] - 445s 10s/step - loss: 0.0805 - accuracy: 0.9791 - precision: 0.9726 - recall: 0.9991 - f1_score: 0.9855 - val_loss: 0.2751 - val_accuracy: 0.8851 - val_precision: 0.8970 - val_recall: 0.9380 - val_f1_score: 0.9163
+Epoch 75/100
+44/44 [==============================] - ETA: 0s - loss: 0.0676 - accuracy: 0.9849 - precision: 0.9785 - recall: 1.0000 - f1_score: 0.9890
+Epoch 75: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_75.keras
+44/44 [==============================] - 487s 10s/step - loss: 0.0676 - accuracy: 0.9849 - precision: 0.9785 - recall: 1.0000 - f1_score: 0.9890 - val_loss: 0.2547 - val_accuracy: 0.9641 - val_precision: 0.9716 - val_recall: 0.9764 - val_f1_score: 0.9737
+Epoch 76/100
+44/44 [==============================] - ETA: 0s - loss: 0.1218 - accuracy: 0.9615 - precision: 0.9535 - recall: 0.9949 - f1_score: 0.9734
+Epoch 76: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_76.keras
+44/44 [==============================] - 389s 9s/step - loss: 0.1218 - accuracy: 0.9615 - precision: 0.9535 - recall: 0.9949 - f1_score: 0.9734 - val_loss: 0.4918 - val_accuracy: 0.7529 - val_precision: 0.7352 - val_recall: 0.9937 - val_f1_score: 0.8441
+Epoch 77/100
+44/44 [==============================] - ETA: 0s - loss: 0.0740 - accuracy: 0.9824 - precision: 0.9769 - recall: 0.9995 - f1_score: 0.9879
+Epoch 77: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_77.keras
+44/44 [==============================] - 390s 9s/step - loss: 0.0740 - accuracy: 0.9824 - precision: 0.9769 - recall: 0.9995 - f1_score: 0.9879 - val_loss: 0.4413 - val_accuracy: 0.7672 - val_precision: 0.7481 - val_recall: 0.9896 - val_f1_score: 0.8511
+Epoch 78/100
+44/44 [==============================] - ETA: 0s - loss: 0.0643 - accuracy: 0.9871 - precision: 0.9824 - recall: 1.0000 - f1_score: 0.9911
+Epoch 78: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_78.keras
+44/44 [==============================] - 380s 9s/step - loss: 0.0643 - accuracy: 0.9871 - precision: 0.9824 - recall: 1.0000 - f1_score: 0.9911 - val_loss: 0.3121 - val_accuracy: 0.8549 - val_precision: 0.8249 - val_recall: 0.9975 - val_f1_score: 0.9024
+Epoch 79/100
+44/44 [==============================] - ETA: 0s - loss: 0.0571 - accuracy: 0.9885 - precision: 0.9843 - recall: 1.0000 - f1_score: 0.9920
+Epoch 79: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_79.keras
+44/44 [==============================] - 493s 11s/step - loss: 0.0571 - accuracy: 0.9885 - precision: 0.9843 - recall: 1.0000 - f1_score: 0.9920 - val_loss: 0.2092 - val_accuracy: 0.9397 - val_precision: 0.9209 - val_recall: 0.9954 - val_f1_score: 0.9565
+Epoch 80/100
+44/44 [==============================] - ETA: 0s - loss: 0.0518 - accuracy: 0.9896 - precision: 0.9859 - recall: 1.0000 - f1_score: 0.9928
+Epoch 80: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_80.keras
+44/44 [==============================] - 392s 9s/step - loss: 0.0518 - accuracy: 0.9896 - precision: 0.9859 - recall: 1.0000 - f1_score: 0.9928 - val_loss: 0.1652 - val_accuracy: 0.9440 - val_precision: 0.9249 - val_recall: 0.9978 - val_f1_score: 0.9597
+Epoch 81/100
+44/44 [==============================] - ETA: 0s - loss: 0.0509 - accuracy: 0.9896 - precision: 0.9860 - recall: 1.0000 - f1_score: 0.9929
+Epoch 81: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_81.keras
+44/44 [==============================] - 386s 9s/step - loss: 0.0509 - accuracy: 0.9896 - precision: 0.9860 - recall: 1.0000 - f1_score: 0.9929 - val_loss: 0.1571 - val_accuracy: 0.9468 - val_precision: 0.9338 - val_recall: 0.9917 - val_f1_score: 0.9615
+Epoch 82/100
+44/44 [==============================] - ETA: 0s - loss: 0.0516 - accuracy: 0.9881 - precision: 0.9841 - recall: 1.0000 - f1_score: 0.9919
+Epoch 82: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_82.keras
+44/44 [==============================] - 437s 10s/step - loss: 0.0516 - accuracy: 0.9881 - precision: 0.9841 - recall: 1.0000 - f1_score: 0.9919 - val_loss: 0.1813 - val_accuracy: 0.8908 - val_precision: 0.8703 - val_recall: 0.9851 - val_f1_score: 0.9235
+Epoch 83/100
+44/44 [==============================] - ETA: 0s - loss: 0.0508 - accuracy: 0.9885 - precision: 0.9839 - recall: 1.0000 - f1_score: 0.9918
+Epoch 83: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_83.keras
+44/44 [==============================] - 381s 9s/step - loss: 0.0508 - accuracy: 0.9885 - precision: 0.9839 - recall: 1.0000 - f1_score: 0.9918 - val_loss: 0.2507 - val_accuracy: 0.8075 - val_precision: 0.7806 - val_recall: 0.9962 - val_f1_score: 0.8745
+Epoch 84/100
+44/44 [==============================] - ETA: 0s - loss: 0.0519 - accuracy: 0.9881 - precision: 0.9837 - recall: 1.0000 - f1_score: 0.9917
+Epoch 84: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_84.keras
+44/44 [==============================] - 382s 9s/step - loss: 0.0519 - accuracy: 0.9881 - precision: 0.9837 - recall: 1.0000 - f1_score: 0.9917 - val_loss: 0.1987 - val_accuracy: 0.9612 - val_precision: 0.9629 - val_recall: 0.9818 - val_f1_score: 0.9719
+Epoch 85/100
+44/44 [==============================] - ETA: 0s - loss: 0.0598 - accuracy: 0.9849 - precision: 0.9803 - recall: 0.9991 - f1_score: 0.9894
+Epoch 85: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_85.keras
+44/44 [==============================] - 379s 9s/step - loss: 0.0598 - accuracy: 0.9849 - precision: 0.9803 - recall: 0.9991 - f1_score: 0.9894 - val_loss: 0.2110 - val_accuracy: 0.9066 - val_precision: 0.8933 - val_recall: 0.9794 - val_f1_score: 0.9336
+Epoch 86/100
+44/44 [==============================] - ETA: 0s - loss: 0.0528 - accuracy: 0.9881 - precision: 0.9838 - recall: 1.0000 - f1_score: 0.9917
+Epoch 86: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_86.keras
+44/44 [==============================] - 415s 9s/step - loss: 0.0528 - accuracy: 0.9881 - precision: 0.9838 - recall: 1.0000 - f1_score: 0.9917 - val_loss: 0.2793 - val_accuracy: 0.9741 - val_precision: 0.9892 - val_recall: 0.9732 - val_f1_score: 0.9808
+Epoch 87/100
+44/44 [==============================] - ETA: 0s - loss: 0.0488 - accuracy: 0.9896 - precision: 0.9850 - recall: 1.0000 - f1_score: 0.9923
+Epoch 87: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_87.keras
+44/44 [==============================] - 384s 9s/step - loss: 0.0488 - accuracy: 0.9896 - precision: 0.9850 - recall: 1.0000 - f1_score: 0.9923 - val_loss: 0.1876 - val_accuracy: 0.9670 - val_precision: 0.9619 - val_recall: 0.9920 - val_f1_score: 0.9764
+Epoch 88/100
+44/44 [==============================] - ETA: 0s - loss: 0.0452 - accuracy: 0.9903 - precision: 0.9862 - recall: 1.0000 - f1_score: 0.9930
+Epoch 88: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_88.keras
+44/44 [==============================] - 390s 9s/step - loss: 0.0452 - accuracy: 0.9903 - precision: 0.9862 - recall: 1.0000 - f1_score: 0.9930 - val_loss: 0.1641 - val_accuracy: 0.9641 - val_precision: 0.9554 - val_recall: 0.9937 - val_f1_score: 0.9738
+Epoch 89/100
+44/44 [==============================] - ETA: 0s - loss: 0.0430 - accuracy: 0.9903 - precision: 0.9871 - recall: 1.0000 - f1_score: 0.9934
+Epoch 89: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_89.keras
+44/44 [==============================] - 469s 11s/step - loss: 0.0430 - accuracy: 0.9903 - precision: 0.9871 - recall: 1.0000 - f1_score: 0.9934 - val_loss: 0.1778 - val_accuracy: 0.9813 - val_precision: 0.9773 - val_recall: 0.9957 - val_f1_score: 0.9863
+Epoch 90/100
+44/44 [==============================] - ETA: 0s - loss: 0.0418 - accuracy: 0.9907 - precision: 0.9874 - recall: 1.0000 - f1_score: 0.9936
+Epoch 90: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_90.keras
+44/44 [==============================] - 424s 10s/step - loss: 0.0418 - accuracy: 0.9907 - precision: 0.9874 - recall: 1.0000 - f1_score: 0.9936 - val_loss: 0.1534 - val_accuracy: 0.9483 - val_precision: 0.9328 - val_recall: 0.9957 - val_f1_score: 0.9629
+Epoch 91/100
+44/44 [==============================] - ETA: 0s - loss: 0.0462 - accuracy: 0.9881 - precision: 0.9839 - recall: 1.0000 - f1_score: 0.9918
+Epoch 91: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_91.keras
+44/44 [==============================] - 408s 9s/step - loss: 0.0462 - accuracy: 0.9881 - precision: 0.9839 - recall: 1.0000 - f1_score: 0.9918 - val_loss: 0.2191 - val_accuracy: 0.9181 - val_precision: 0.9031 - val_recall: 0.9842 - val_f1_score: 0.9413
+Epoch 92/100
+44/44 [==============================] - ETA: 0s - loss: 0.0517 - accuracy: 0.9863 - precision: 0.9818 - recall: 1.0000 - f1_score: 0.9907
+Epoch 92: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_92.keras
+44/44 [==============================] - 383s 9s/step - loss: 0.0517 - accuracy: 0.9863 - precision: 0.9818 - recall: 1.0000 - f1_score: 0.9907 - val_loss: 0.1683 - val_accuracy: 0.9210 - val_precision: 0.9040 - val_recall: 0.9897 - val_f1_score: 0.9441
+Epoch 93/100
+44/44 [==============================] - ETA: 0s - loss: 0.0427 - accuracy: 0.9899 - precision: 0.9862 - recall: 1.0000 - f1_score: 0.9930
+Epoch 93: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_93.keras
+44/44 [==============================] - 431s 10s/step - loss: 0.0427 - accuracy: 0.9899 - precision: 0.9862 - recall: 1.0000 - f1_score: 0.9930 - val_loss: 0.1733 - val_accuracy: 0.9109 - val_precision: 0.8879 - val_recall: 0.9938 - val_f1_score: 0.9376
+Epoch 94/100
+44/44 [==============================] - ETA: 0s - loss: 0.0396 - accuracy: 0.9903 - precision: 0.9863 - recall: 1.0000 - f1_score: 0.9931
+Epoch 94: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_94.keras
+44/44 [==============================] - 394s 9s/step - loss: 0.0396 - accuracy: 0.9903 - precision: 0.9863 - recall: 1.0000 - f1_score: 0.9931 - val_loss: 0.1529 - val_accuracy: 0.9080 - val_precision: 0.8894 - val_recall: 0.9874 - val_f1_score: 0.9352
+Epoch 95/100
+44/44 [==============================] - ETA: 0s - loss: 0.0387 - accuracy: 0.9903 - precision: 0.9859 - recall: 1.0000 - f1_score: 0.9928
+Epoch 95: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_95.keras
+44/44 [==============================] - 391s 9s/step - loss: 0.0387 - accuracy: 0.9903 - precision: 0.9859 - recall: 1.0000 - f1_score: 0.9928 - val_loss: 0.1510 - val_accuracy: 0.9066 - val_precision: 0.8829 - val_recall: 0.9938 - val_f1_score: 0.9346
+Epoch 96/100
+44/44 [==============================] - ETA: 0s - loss: 0.0390 - accuracy: 0.9896 - precision: 0.9847 - recall: 0.9995 - f1_score: 0.9919
+Epoch 96: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_96.keras
+44/44 [==============================] - 449s 10s/step - loss: 0.0390 - accuracy: 0.9896 - precision: 0.9847 - recall: 0.9995 - f1_score: 0.9919 - val_loss: 0.2046 - val_accuracy: 0.8966 - val_precision: 0.8693 - val_recall: 0.9981 - val_f1_score: 0.9284
+Epoch 97/100
+44/44 [==============================] - ETA: 0s - loss: 0.0396 - accuracy: 0.9899 - precision: 0.9864 - recall: 1.0000 - f1_score: 0.9931
+Epoch 97: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_97.keras
+44/44 [==============================] - 425s 10s/step - loss: 0.0396 - accuracy: 0.9899 - precision: 0.9864 - recall: 1.0000 - f1_score: 0.9931 - val_loss: 0.1675 - val_accuracy: 0.8779 - val_precision: 0.8493 - val_recall: 0.9963 - val_f1_score: 0.9162
+Epoch 98/100
+44/44 [==============================] - ETA: 0s - loss: 0.0391 - accuracy: 0.9892 - precision: 0.9853 - recall: 1.0000 - f1_score: 0.9925
+Epoch 98: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_98.keras
+44/44 [==============================] - 385s 9s/step - loss: 0.0391 - accuracy: 0.9892 - precision: 0.9853 - recall: 1.0000 - f1_score: 0.9925 - val_loss: 0.1836 - val_accuracy: 0.8649 - val_precision: 0.8357 - val_recall: 0.9960 - val_f1_score: 0.9082
+Epoch 99/100
+44/44 [==============================] - ETA: 0s - loss: 0.0369 - accuracy: 0.9903 - precision: 0.9870 - recall: 1.0000 - f1_score: 0.9934
+Epoch 99: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_99.keras
+44/44 [==============================] - 390s 9s/step - loss: 0.0369 - accuracy: 0.9903 - precision: 0.9870 - recall: 1.0000 - f1_score: 0.9934 - val_loss: 0.1711 - val_accuracy: 0.8563 - val_precision: 0.8275 - val_recall: 0.9934 - val_f1_score: 0.9024
+Epoch 100/100
+44/44 [==============================] - ETA: 0s - loss: 0.0369 - accuracy: 0.9896 - precision: 0.9852 - recall: 1.0000 - f1_score: 0.9924
+Epoch 100: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\GoogLeNet\GooogLeNet_fused\GoogLeNet_fused_epoch_100.keras
+44/44 [==============================] - 424s 10s/step - loss: 0.0369 - accuracy: 0.9896 - precision: 0.9852 - recall: 1.0000 - f1_score: 0.9924 - val_loss: 0.1662 - val_accuracy: 0.8793 - val_precision: 0.8521 - val_recall: 0.9936 - val_f1_score: 0.9169

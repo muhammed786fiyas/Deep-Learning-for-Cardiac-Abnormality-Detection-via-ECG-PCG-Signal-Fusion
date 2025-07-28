@@ -1,0 +1,404 @@
+Epoch 1/100
+WARNING:tensorflow:From c:\Users\muham\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+WARNING:tensorflow:From c:\Users\muham\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+44/44 [==============================] - ETA: 0s - loss: 0.5687 - accuracy: 0.7105 - precision: 0.7116 - recall: 1.0000 - f1_score: 0.8303 
+Epoch 1: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_1.keras
+44/44 [==============================] - 618s 13s/step - loss: 0.5687 - accuracy: 0.7105 - precision: 0.7116 - recall: 1.0000 - f1_score: 0.8303 - val_loss: 0.5594 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 2/100
+44/44 [==============================] - ETA: 0s - loss: 0.5542 - accuracy: 0.7105 - precision: 0.7116 - recall: 1.0000 - f1_score: 0.8299
+Epoch 2: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_2.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.5542 - accuracy: 0.7105 - precision: 0.7116 - recall: 1.0000 - f1_score: 0.8299 - val_loss: 0.5494 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 3/100
+44/44 [==============================] - ETA: 0s - loss: 0.5441 - accuracy: 0.7105 - precision: 0.7098 - recall: 1.0000 - f1_score: 0.8289
+Epoch 3: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_3.keras
+44/44 [==============================] - 534s 12s/step - loss: 0.5441 - accuracy: 0.7105 - precision: 0.7098 - recall: 1.0000 - f1_score: 0.8289 - val_loss: 0.5403 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 4/100
+44/44 [==============================] - ETA: 0s - loss: 0.5344 - accuracy: 0.7105 - precision: 0.7103 - recall: 1.0000 - f1_score: 0.8293
+Epoch 4: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_4.keras
+44/44 [==============================] - 534s 12s/step - loss: 0.5344 - accuracy: 0.7105 - precision: 0.7103 - recall: 1.0000 - f1_score: 0.8293 - val_loss: 0.5337 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 5/100
+44/44 [==============================] - ETA: 0s - loss: 0.5263 - accuracy: 0.7105 - precision: 0.7090 - recall: 1.0000 - f1_score: 0.8284
+Epoch 5: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_5.keras
+44/44 [==============================] - 534s 12s/step - loss: 0.5263 - accuracy: 0.7105 - precision: 0.7090 - recall: 1.0000 - f1_score: 0.8284 - val_loss: 0.5238 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 6/100
+44/44 [==============================] - ETA: 0s - loss: 0.5165 - accuracy: 0.7105 - precision: 0.7103 - recall: 1.0000 - f1_score: 0.8289
+Epoch 6: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_6.keras
+44/44 [==============================] - 527s 12s/step - loss: 0.5165 - accuracy: 0.7105 - precision: 0.7103 - recall: 1.0000 - f1_score: 0.8289 - val_loss: 0.5160 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 7/100
+44/44 [==============================] - ETA: 0s - loss: 0.5082 - accuracy: 0.7105 - precision: 0.7103 - recall: 1.0000 - f1_score: 0.8291
+Epoch 7: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_7.keras
+44/44 [==============================] - 526s 12s/step - loss: 0.5082 - accuracy: 0.7105 - precision: 0.7103 - recall: 1.0000 - f1_score: 0.8291 - val_loss: 0.5142 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 8/100
+44/44 [==============================] - ETA: 0s - loss: 0.5003 - accuracy: 0.7105 - precision: 0.7107 - recall: 1.0000 - f1_score: 0.8290
+Epoch 8: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_8.keras
+44/44 [==============================] - 527s 12s/step - loss: 0.5003 - accuracy: 0.7105 - precision: 0.7107 - recall: 1.0000 - f1_score: 0.8290 - val_loss: 0.5023 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 9/100
+44/44 [==============================] - ETA: 0s - loss: 0.4922 - accuracy: 0.7105 - precision: 0.7107 - recall: 1.0000 - f1_score: 0.8301
+Epoch 9: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_9.keras
+44/44 [==============================] - 528s 12s/step - loss: 0.4922 - accuracy: 0.7105 - precision: 0.7107 - recall: 1.0000 - f1_score: 0.8301 - val_loss: 0.4959 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 10/100
+44/44 [==============================] - ETA: 0s - loss: 0.4853 - accuracy: 0.7105 - precision: 0.7090 - recall: 1.0000 - f1_score: 0.8282
+Epoch 10: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_10.keras
+44/44 [==============================] - 529s 12s/step - loss: 0.4853 - accuracy: 0.7105 - precision: 0.7090 - recall: 1.0000 - f1_score: 0.8282 - val_loss: 0.4885 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 11/100
+44/44 [==============================] - ETA: 0s - loss: 0.4756 - accuracy: 0.7105 - precision: 0.7111 - recall: 1.0000 - f1_score: 0.8302
+Epoch 11: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_11.keras
+44/44 [==============================] - 529s 12s/step - loss: 0.4756 - accuracy: 0.7105 - precision: 0.7111 - recall: 1.0000 - f1_score: 0.8302 - val_loss: 0.4819 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 12/100
+44/44 [==============================] - ETA: 0s - loss: 0.4689 - accuracy: 0.7105 - precision: 0.7094 - recall: 1.0000 - f1_score: 0.8285 
+Epoch 12: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_12.keras
+44/44 [==============================] - 554s 13s/step - loss: 0.4689 - accuracy: 0.7105 - precision: 0.7094 - recall: 1.0000 - f1_score: 0.8285 - val_loss: 0.4730 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 13/100
+44/44 [==============================] - ETA: 0s - loss: 0.4593 - accuracy: 0.7105 - precision: 0.7107 - recall: 1.0000 - f1_score: 0.8295
+Epoch 13: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_13.keras
+44/44 [==============================] - 544s 12s/step - loss: 0.4593 - accuracy: 0.7105 - precision: 0.7107 - recall: 1.0000 - f1_score: 0.8295 - val_loss: 0.4705 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 14/100
+44/44 [==============================] - ETA: 0s - loss: 0.4542 - accuracy: 0.7105 - precision: 0.7098 - recall: 1.0000 - f1_score: 0.8291
+Epoch 14: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_14.keras
+44/44 [==============================] - 547s 12s/step - loss: 0.4542 - accuracy: 0.7105 - precision: 0.7098 - recall: 1.0000 - f1_score: 0.8291 - val_loss: 0.4658 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 15/100
+44/44 [==============================] - ETA: 0s - loss: 0.4453 - accuracy: 0.7105 - precision: 0.7073 - recall: 1.0000 - f1_score: 0.8267 
+Epoch 15: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_15.keras
+44/44 [==============================] - 570s 13s/step - loss: 0.4453 - accuracy: 0.7105 - precision: 0.7073 - recall: 1.0000 - f1_score: 0.8267 - val_loss: 0.4551 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 16/100
+44/44 [==============================] - ETA: 0s - loss: 0.4394 - accuracy: 0.7105 - precision: 0.7094 - recall: 1.0000 - f1_score: 0.8285 
+Epoch 16: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_16.keras
+44/44 [==============================] - 558s 13s/step - loss: 0.4394 - accuracy: 0.7105 - precision: 0.7094 - recall: 1.0000 - f1_score: 0.8285 - val_loss: 0.4599 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 17/100
+44/44 [==============================] - ETA: 0s - loss: 0.4305 - accuracy: 0.7105 - precision: 0.7103 - recall: 1.0000 - f1_score: 0.8291 
+Epoch 17: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_17.keras
+44/44 [==============================] - 558s 13s/step - loss: 0.4305 - accuracy: 0.7105 - precision: 0.7103 - recall: 1.0000 - f1_score: 0.8291 - val_loss: 0.4453 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 18/100
+44/44 [==============================] - ETA: 0s - loss: 0.4212 - accuracy: 0.7105 - precision: 0.7107 - recall: 1.0000 - f1_score: 0.8297 
+Epoch 18: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_18.keras
+44/44 [==============================] - 547s 13s/step - loss: 0.4212 - accuracy: 0.7105 - precision: 0.7107 - recall: 1.0000 - f1_score: 0.8297 - val_loss: 0.4512 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 19/100
+44/44 [==============================] - ETA: 0s - loss: 0.4173 - accuracy: 0.7105 - precision: 0.7111 - recall: 1.0000 - f1_score: 0.8299
+Epoch 19: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_19.keras
+44/44 [==============================] - 545s 12s/step - loss: 0.4173 - accuracy: 0.7105 - precision: 0.7111 - recall: 1.0000 - f1_score: 0.8299 - val_loss: 0.4280 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 20/100
+44/44 [==============================] - ETA: 0s - loss: 0.4097 - accuracy: 0.7105 - precision: 0.7098 - recall: 1.0000 - f1_score: 0.8292
+Epoch 20: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_20.keras
+44/44 [==============================] - 529s 12s/step - loss: 0.4097 - accuracy: 0.7105 - precision: 0.7098 - recall: 1.0000 - f1_score: 0.8292 - val_loss: 0.4202 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 21/100
+44/44 [==============================] - ETA: 0s - loss: 0.4018 - accuracy: 0.7105 - precision: 0.7103 - recall: 1.0000 - f1_score: 0.8291
+Epoch 21: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_21.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.4018 - accuracy: 0.7105 - precision: 0.7103 - recall: 1.0000 - f1_score: 0.8291 - val_loss: 0.4169 - val_accuracy: 0.7126 - val_precision: 0.7135 - val_recall: 1.0000 - val_f1_score: 0.8314
+Epoch 22/100
+44/44 [==============================] - ETA: 0s - loss: 0.3953 - accuracy: 0.7620 - precision: 0.7586 - recall: 0.9995 - f1_score: 0.8586
+Epoch 22: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_22.keras
+44/44 [==============================] - 529s 12s/step - loss: 0.3953 - accuracy: 0.7620 - precision: 0.7586 - recall: 0.9995 - f1_score: 0.8586 - val_loss: 0.4119 - val_accuracy: 0.8635 - val_precision: 0.8436 - val_recall: 0.9937 - val_f1_score: 0.9118
+Epoch 23/100
+44/44 [==============================] - ETA: 0s - loss: 0.3872 - accuracy: 0.9342 - precision: 0.9178 - recall: 0.9965 - f1_score: 0.9550
+Epoch 23: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_23.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.3872 - accuracy: 0.9342 - precision: 0.9178 - recall: 0.9965 - f1_score: 0.9550 - val_loss: 0.4067 - val_accuracy: 0.9397 - val_precision: 0.9330 - val_recall: 0.9858 - val_f1_score: 0.9586
+Epoch 24/100
+44/44 [==============================] - ETA: 0s - loss: 0.3819 - accuracy: 0.9500 - precision: 0.9386 - recall: 0.9945 - f1_score: 0.9653
+Epoch 24: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_24.keras
+44/44 [==============================] - 528s 12s/step - loss: 0.3819 - accuracy: 0.9500 - precision: 0.9386 - recall: 0.9945 - f1_score: 0.9653 - val_loss: 0.3982 - val_accuracy: 0.9368 - val_precision: 0.9296 - val_recall: 0.9858 - val_f1_score: 0.9568
+Epoch 25/100
+44/44 [==============================] - ETA: 0s - loss: 0.3771 - accuracy: 0.9615 - precision: 0.9549 - recall: 0.9944 - f1_score: 0.9738
+Epoch 25: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_25.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.3771 - accuracy: 0.9615 - precision: 0.9549 - recall: 0.9944 - f1_score: 0.9738 - val_loss: 0.3967 - val_accuracy: 0.9095 - val_precision: 0.8956 - val_recall: 0.9879 - val_f1_score: 0.9391
+Epoch 26/100
+44/44 [==============================] - ETA: 0s - loss: 0.3704 - accuracy: 0.9655 - precision: 0.9610 - recall: 0.9927 - f1_score: 0.9763
+Epoch 26: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_26.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.3704 - accuracy: 0.9655 - precision: 0.9610 - recall: 0.9927 - f1_score: 0.9763 - val_loss: 0.3893 - val_accuracy: 0.9397 - val_precision: 0.9365 - val_recall: 0.9816 - val_f1_score: 0.9583
+Epoch 27/100
+44/44 [==============================] - ETA: 0s - loss: 0.3696 - accuracy: 0.9648 - precision: 0.9582 - recall: 0.9950 - f1_score: 0.9757
+Epoch 27: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_27.keras
+44/44 [==============================] - 536s 12s/step - loss: 0.3696 - accuracy: 0.9648 - precision: 0.9582 - recall: 0.9950 - f1_score: 0.9757 - val_loss: 0.3927 - val_accuracy: 0.9152 - val_precision: 0.9013 - val_recall: 0.9897 - val_f1_score: 0.9431
+Epoch 28/100
+44/44 [==============================] - ETA: 0s - loss: 0.3622 - accuracy: 0.9684 - precision: 0.9666 - recall: 0.9901 - f1_score: 0.9778
+Epoch 28: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_28.keras
+44/44 [==============================] - 525s 12s/step - loss: 0.3622 - accuracy: 0.9684 - precision: 0.9666 - recall: 0.9901 - f1_score: 0.9778 - val_loss: 0.3781 - val_accuracy: 0.9425 - val_precision: 0.9403 - val_recall: 0.9818 - val_f1_score: 0.9605
+Epoch 29/100
+44/44 [==============================] - ETA: 0s - loss: 0.3547 - accuracy: 0.9709 - precision: 0.9680 - recall: 0.9931 - f1_score: 0.9799
+Epoch 29: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_29.keras
+44/44 [==============================] - 536s 12s/step - loss: 0.3547 - accuracy: 0.9709 - precision: 0.9680 - recall: 0.9931 - f1_score: 0.9799 - val_loss: 0.3748 - val_accuracy: 0.9511 - val_precision: 0.9656 - val_recall: 0.9655 - val_f1_score: 0.9652
+Epoch 30/100
+44/44 [==============================] - ETA: 0s - loss: 0.3474 - accuracy: 0.9781 - precision: 0.9759 - recall: 0.9941 - f1_score: 0.9846
+Epoch 30: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_30.keras
+44/44 [==============================] - 535s 12s/step - loss: 0.3474 - accuracy: 0.9781 - precision: 0.9759 - recall: 0.9941 - f1_score: 0.9846 - val_loss: 0.3694 - val_accuracy: 0.9468 - val_precision: 0.9439 - val_recall: 0.9839 - val_f1_score: 0.9633
+Epoch 31/100
+44/44 [==============================] - ETA: 0s - loss: 0.3419 - accuracy: 0.9763 - precision: 0.9734 - recall: 0.9921 - f1_score: 0.9824
+Epoch 31: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_31.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.3419 - accuracy: 0.9763 - precision: 0.9734 - recall: 0.9921 - f1_score: 0.9824 - val_loss: 0.3650 - val_accuracy: 0.9397 - val_precision: 0.9319 - val_recall: 0.9879 - val_f1_score: 0.9589
+Epoch 32/100
+44/44 [==============================] - ETA: 0s - loss: 0.3351 - accuracy: 0.9795 - precision: 0.9776 - recall: 0.9946 - f1_score: 0.9858
+Epoch 32: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_32.keras
+44/44 [==============================] - 534s 12s/step - loss: 0.3351 - accuracy: 0.9795 - precision: 0.9776 - recall: 0.9946 - f1_score: 0.9858 - val_loss: 0.3609 - val_accuracy: 0.9583 - val_precision: 0.9640 - val_recall: 0.9778 - val_f1_score: 0.9706
+Epoch 33/100
+44/44 [==============================] - ETA: 0s - loss: 0.3325 - accuracy: 0.9781 - precision: 0.9786 - recall: 0.9922 - f1_score: 0.9850
+Epoch 33: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_33.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.3325 - accuracy: 0.9781 - precision: 0.9786 - recall: 0.9922 - f1_score: 0.9850 - val_loss: 0.3547 - val_accuracy: 0.9511 - val_precision: 0.9495 - val_recall: 0.9839 - val_f1_score: 0.9662
+Epoch 34/100
+44/44 [==============================] - ETA: 0s - loss: 0.3238 - accuracy: 0.9838 - precision: 0.9819 - recall: 0.9950 - f1_score: 0.9882
+Epoch 34: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_34.keras
+44/44 [==============================] - 529s 12s/step - loss: 0.3238 - accuracy: 0.9838 - precision: 0.9819 - recall: 0.9950 - f1_score: 0.9882 - val_loss: 0.3518 - val_accuracy: 0.9569 - val_precision: 0.9639 - val_recall: 0.9754 - val_f1_score: 0.9694
+Epoch 35/100
+44/44 [==============================] - ETA: 0s - loss: 0.3201 - accuracy: 0.9831 - precision: 0.9833 - recall: 0.9929 - f1_score: 0.9879
+Epoch 35: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_35.keras
+44/44 [==============================] - 529s 12s/step - loss: 0.3201 - accuracy: 0.9831 - precision: 0.9833 - recall: 0.9929 - f1_score: 0.9879 - val_loss: 0.3465 - val_accuracy: 0.9497 - val_precision: 0.9461 - val_recall: 0.9860 - val_f1_score: 0.9655
+Epoch 36/100
+44/44 [==============================] - ETA: 0s - loss: 0.3147 - accuracy: 0.9842 - precision: 0.9839 - recall: 0.9928 - f1_score: 0.9881
+Epoch 36: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_36.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.3147 - accuracy: 0.9842 - precision: 0.9839 - recall: 0.9928 - f1_score: 0.9881 - val_loss: 0.3413 - val_accuracy: 0.9526 - val_precision: 0.9496 - val_recall: 0.9860 - val_f1_score: 0.9673
+Epoch 37/100
+44/44 [==============================] - ETA: 0s - loss: 0.3101 - accuracy: 0.9860 - precision: 0.9863 - recall: 0.9938 - f1_score: 0.9899
+Epoch 37: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_37.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.3101 - accuracy: 0.9860 - precision: 0.9863 - recall: 0.9938 - f1_score: 0.9899 - val_loss: 0.3454 - val_accuracy: 0.9411 - val_precision: 0.9670 - val_recall: 0.9501 - val_f1_score: 0.9581
+Epoch 38/100
+44/44 [==============================] - ETA: 0s - loss: 0.3082 - accuracy: 0.9824 - precision: 0.9824 - recall: 0.9924 - f1_score: 0.9872
+Epoch 38: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_38.keras
+44/44 [==============================] - 582s 13s/step - loss: 0.3082 - accuracy: 0.9824 - precision: 0.9824 - recall: 0.9924 - f1_score: 0.9872 - val_loss: 0.3394 - val_accuracy: 0.9397 - val_precision: 0.9312 - val_recall: 0.9878 - val_f1_score: 0.9585
+Epoch 39/100
+44/44 [==============================] - ETA: 0s - loss: 0.3086 - accuracy: 0.9777 - precision: 0.9764 - recall: 0.9920 - f1_score: 0.9838
+Epoch 39: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_39.keras
+44/44 [==============================] - 524s 12s/step - loss: 0.3086 - accuracy: 0.9777 - precision: 0.9764 - recall: 0.9920 - f1_score: 0.9838 - val_loss: 0.3439 - val_accuracy: 0.9310 - val_precision: 0.9196 - val_recall: 0.9898 - val_f1_score: 0.9531
+Epoch 40/100
+44/44 [==============================] - ETA: 0s - loss: 0.3002 - accuracy: 0.9820 - precision: 0.9813 - recall: 0.9939 - f1_score: 0.9873
+Epoch 40: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_40.keras
+44/44 [==============================] - 527s 12s/step - loss: 0.3002 - accuracy: 0.9820 - precision: 0.9813 - recall: 0.9939 - f1_score: 0.9873 - val_loss: 0.3450 - val_accuracy: 0.9296 - val_precision: 0.9180 - val_recall: 0.9898 - val_f1_score: 0.9523
+Epoch 41/100
+44/44 [==============================] - ETA: 0s - loss: 0.2939 - accuracy: 0.9856 - precision: 0.9856 - recall: 0.9947 - f1_score: 0.9900
+Epoch 41: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_41.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.2939 - accuracy: 0.9856 - precision: 0.9856 - recall: 0.9947 - f1_score: 0.9900 - val_loss: 0.3338 - val_accuracy: 0.9368 - val_precision: 0.9263 - val_recall: 0.9898 - val_f1_score: 0.9569
+Epoch 42/100
+44/44 [==============================] - ETA: 0s - loss: 0.2892 - accuracy: 0.9845 - precision: 0.9843 - recall: 0.9945 - f1_score: 0.9892
+Epoch 42: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_42.keras
+44/44 [==============================] - 526s 12s/step - loss: 0.2892 - accuracy: 0.9845 - precision: 0.9843 - recall: 0.9945 - f1_score: 0.9892 - val_loss: 0.3228 - val_accuracy: 0.9425 - val_precision: 0.9350 - val_recall: 0.9878 - val_f1_score: 0.9605
+Epoch 43/100
+44/44 [==============================] - ETA: 0s - loss: 0.2826 - accuracy: 0.9867 - precision: 0.9863 - recall: 0.9956 - f1_score: 0.9909
+Epoch 43: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_43.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.2826 - accuracy: 0.9867 - precision: 0.9863 - recall: 0.9956 - f1_score: 0.9909 - val_loss: 0.3169 - val_accuracy: 0.9555 - val_precision: 0.9654 - val_recall: 0.9721 - val_f1_score: 0.9685
+Epoch 44/100
+44/44 [==============================] - ETA: 0s - loss: 0.2808 - accuracy: 0.9863 - precision: 0.9876 - recall: 0.9934 - f1_score: 0.9904
+Epoch 44: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_44.keras
+44/44 [==============================] - 527s 12s/step - loss: 0.2808 - accuracy: 0.9863 - precision: 0.9876 - recall: 0.9934 - f1_score: 0.9904 - val_loss: 0.3158 - val_accuracy: 0.9483 - val_precision: 0.9421 - val_recall: 0.9878 - val_f1_score: 0.9643
+Epoch 45/100
+44/44 [==============================] - ETA: 0s - loss: 0.2754 - accuracy: 0.9860 - precision: 0.9875 - recall: 0.9936 - f1_score: 0.9904
+Epoch 45: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_45.keras
+44/44 [==============================] - 527s 12s/step - loss: 0.2754 - accuracy: 0.9860 - precision: 0.9875 - recall: 0.9936 - f1_score: 0.9904 - val_loss: 0.3063 - val_accuracy: 0.9583 - val_precision: 0.9590 - val_recall: 0.9839 - val_f1_score: 0.9711
+Epoch 46/100
+44/44 [==============================] - ETA: 0s - loss: 0.2699 - accuracy: 0.9896 - precision: 0.9904 - recall: 0.9948 - f1_score: 0.9925
+Epoch 46: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_46.keras
+44/44 [==============================] - 526s 12s/step - loss: 0.2699 - accuracy: 0.9896 - precision: 0.9904 - recall: 0.9948 - f1_score: 0.9925 - val_loss: 0.3036 - val_accuracy: 0.9555 - val_precision: 0.9553 - val_recall: 0.9839 - val_f1_score: 0.9692
+Epoch 47/100
+44/44 [==============================] - ETA: 0s - loss: 0.2692 - accuracy: 0.9856 - precision: 0.9857 - recall: 0.9941 - f1_score: 0.9897
+Epoch 47: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_47.keras
+44/44 [==============================] - 529s 12s/step - loss: 0.2692 - accuracy: 0.9856 - precision: 0.9857 - recall: 0.9941 - f1_score: 0.9897 - val_loss: 0.3156 - val_accuracy: 0.9368 - val_precision: 0.9260 - val_recall: 0.9898 - val_f1_score: 0.9567
+Epoch 48/100
+44/44 [==============================] - ETA: 0s - loss: 0.2649 - accuracy: 0.9863 - precision: 0.9869 - recall: 0.9939 - f1_score: 0.9902
+Epoch 48: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_48.keras
+44/44 [==============================] - 533s 12s/step - loss: 0.2649 - accuracy: 0.9863 - precision: 0.9869 - recall: 0.9939 - f1_score: 0.9902 - val_loss: 0.3056 - val_accuracy: 0.9454 - val_precision: 0.9669 - val_recall: 0.9561 - val_f1_score: 0.9610
+Epoch 49/100
+44/44 [==============================] - ETA: 0s - loss: 0.2607 - accuracy: 0.9871 - precision: 0.9887 - recall: 0.9934 - f1_score: 0.9909
+Epoch 49: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_49.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.2607 - accuracy: 0.9871 - precision: 0.9887 - recall: 0.9934 - f1_score: 0.9909 - val_loss: 0.3113 - val_accuracy: 0.9425 - val_precision: 0.9356 - val_recall: 0.9878 - val_f1_score: 0.9606
+Epoch 50/100
+44/44 [==============================] - ETA: 0s - loss: 0.2606 - accuracy: 0.9845 - precision: 0.9859 - recall: 0.9919 - f1_score: 0.9887
+Epoch 50: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_50.keras
+44/44 [==============================] - 534s 12s/step - loss: 0.2606 - accuracy: 0.9845 - precision: 0.9859 - recall: 0.9919 - f1_score: 0.9887 - val_loss: 0.3064 - val_accuracy: 0.9425 - val_precision: 0.9339 - val_recall: 0.9898 - val_f1_score: 0.9607
+Epoch 51/100
+44/44 [==============================] - ETA: 0s - loss: 0.2527 - accuracy: 0.9878 - precision: 0.9882 - recall: 0.9945 - f1_score: 0.9912
+Epoch 51: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_51.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.2527 - accuracy: 0.9878 - precision: 0.9882 - recall: 0.9945 - f1_score: 0.9912 - val_loss: 0.2857 - val_accuracy: 0.9569 - val_precision: 0.9644 - val_recall: 0.9755 - val_f1_score: 0.9696
+Epoch 52/100
+44/44 [==============================] - ETA: 0s - loss: 0.2502 - accuracy: 0.9860 - precision: 0.9878 - recall: 0.9932 - f1_score: 0.9904
+Epoch 52: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_52.keras
+44/44 [==============================] - 533s 12s/step - loss: 0.2502 - accuracy: 0.9860 - precision: 0.9878 - recall: 0.9932 - f1_score: 0.9904 - val_loss: 0.2871 - val_accuracy: 0.9526 - val_precision: 0.9480 - val_recall: 0.9878 - val_f1_score: 0.9673
+Epoch 53/100
+44/44 [==============================] - ETA: 0s - loss: 0.2472 - accuracy: 0.9856 - precision: 0.9872 - recall: 0.9930 - f1_score: 0.9899
+Epoch 53: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_53.keras
+44/44 [==============================] - 529s 12s/step - loss: 0.2472 - accuracy: 0.9856 - precision: 0.9872 - recall: 0.9930 - f1_score: 0.9899 - val_loss: 0.2842 - val_accuracy: 0.9497 - val_precision: 0.9710 - val_recall: 0.9579 - val_f1_score: 0.9640
+Epoch 54/100
+44/44 [==============================] - ETA: 0s - loss: 0.2423 - accuracy: 0.9885 - precision: 0.9895 - recall: 0.9945 - f1_score: 0.9919
+Epoch 54: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_54.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.2423 - accuracy: 0.9885 - precision: 0.9895 - recall: 0.9945 - f1_score: 0.9919 - val_loss: 0.2905 - val_accuracy: 0.9468 - val_precision: 0.9406 - val_recall: 0.9878 - val_f1_score: 0.9635
+Epoch 55/100
+44/44 [==============================] - ETA: 0s - loss: 0.2466 - accuracy: 0.9820 - precision: 0.9825 - recall: 0.9931 - f1_score: 0.9876
+Epoch 55: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_55.keras
+44/44 [==============================] - 538s 12s/step - loss: 0.2466 - accuracy: 0.9820 - precision: 0.9825 - recall: 0.9931 - f1_score: 0.9876 - val_loss: 0.2750 - val_accuracy: 0.9555 - val_precision: 0.9570 - val_recall: 0.9820 - val_f1_score: 0.9692
+Epoch 56/100
+44/44 [==============================] - ETA: 0s - loss: 0.2371 - accuracy: 0.9867 - precision: 0.9873 - recall: 0.9944 - f1_score: 0.9907
+Epoch 56: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_56.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.2371 - accuracy: 0.9867 - precision: 0.9873 - recall: 0.9944 - f1_score: 0.9907 - val_loss: 0.2723 - val_accuracy: 0.9540 - val_precision: 0.9607 - val_recall: 0.9760 - val_f1_score: 0.9679
+Epoch 57/100
+44/44 [==============================] - ETA: 0s - loss: 0.2309 - accuracy: 0.9903 - precision: 0.9915 - recall: 0.9951 - f1_score: 0.9932
+Epoch 57: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_57.keras
+44/44 [==============================] - 534s 12s/step - loss: 0.2309 - accuracy: 0.9903 - precision: 0.9915 - recall: 0.9951 - f1_score: 0.9932 - val_loss: 0.2692 - val_accuracy: 0.9540 - val_precision: 0.9660 - val_recall: 0.9696 - val_f1_score: 0.9674
+Epoch 58/100
+44/44 [==============================] - ETA: 0s - loss: 0.2283 - accuracy: 0.9903 - precision: 0.9911 - recall: 0.9955 - f1_score: 0.9932
+Epoch 58: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_58.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.2283 - accuracy: 0.9903 - precision: 0.9911 - recall: 0.9955 - f1_score: 0.9932 - val_loss: 0.2683 - val_accuracy: 0.9569 - val_precision: 0.9713 - val_recall: 0.9682 - val_f1_score: 0.9693
+Epoch 59/100
+44/44 [==============================] - ETA: 0s - loss: 0.2246 - accuracy: 0.9907 - precision: 0.9909 - recall: 0.9957 - f1_score: 0.9932
+Epoch 59: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_59.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.2246 - accuracy: 0.9907 - precision: 0.9909 - recall: 0.9957 - f1_score: 0.9932 - val_loss: 0.2905 - val_accuracy: 0.9397 - val_precision: 0.9283 - val_recall: 0.9916 - val_f1_score: 0.9587
+Epoch 60/100
+44/44 [==============================] - ETA: 0s - loss: 0.2221 - accuracy: 0.9903 - precision: 0.9903 - recall: 0.9954 - f1_score: 0.9928
+Epoch 60: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_60.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.2221 - accuracy: 0.9903 - precision: 0.9903 - recall: 0.9954 - f1_score: 0.9928 - val_loss: 0.2631 - val_accuracy: 0.9555 - val_precision: 0.9553 - val_recall: 0.9837 - val_f1_score: 0.9690
+Epoch 61/100
+44/44 [==============================] - ETA: 0s - loss: 0.2229 - accuracy: 0.9874 - precision: 0.9900 - recall: 0.9926 - f1_score: 0.9912
+Epoch 61: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_61.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.2229 - accuracy: 0.9874 - precision: 0.9900 - recall: 0.9926 - f1_score: 0.9912 - val_loss: 0.2881 - val_accuracy: 0.9368 - val_precision: 0.9248 - val_recall: 0.9916 - val_f1_score: 0.9568
+Epoch 62/100
+44/44 [==============================] - ETA: 0s - loss: 0.2263 - accuracy: 0.9809 - precision: 0.9828 - recall: 0.9900 - f1_score: 0.9862
+Epoch 62: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_62.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.2263 - accuracy: 0.9809 - precision: 0.9828 - recall: 0.9900 - f1_score: 0.9862 - val_loss: 0.2584 - val_accuracy: 0.9511 - val_precision: 0.9675 - val_recall: 0.9638 - val_f1_score: 0.9652
+Epoch 63/100
+44/44 [==============================] - ETA: 0s - loss: 0.2113 - accuracy: 0.9921 - precision: 0.9925 - recall: 0.9966 - f1_score: 0.9945
+Epoch 63: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_63.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.2113 - accuracy: 0.9921 - precision: 0.9925 - recall: 0.9966 - f1_score: 0.9945 - val_loss: 0.2749 - val_accuracy: 0.9425 - val_precision: 0.9317 - val_recall: 0.9916 - val_f1_score: 0.9606
+Epoch 64/100
+44/44 [==============================] - ETA: 0s - loss: 0.2087 - accuracy: 0.9907 - precision: 0.9917 - recall: 0.9957 - f1_score: 0.9936
+Epoch 64: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_64.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.2087 - accuracy: 0.9907 - precision: 0.9917 - recall: 0.9957 - f1_score: 0.9936 - val_loss: 0.2517 - val_accuracy: 0.9583 - val_precision: 0.9696 - val_recall: 0.9720 - val_f1_score: 0.9704
+Epoch 65/100
+44/44 [==============================] - ETA: 0s - loss: 0.2073 - accuracy: 0.9899 - precision: 0.9916 - recall: 0.9944 - f1_score: 0.9929
+Epoch 65: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_65.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.2073 - accuracy: 0.9899 - precision: 0.9916 - recall: 0.9944 - f1_score: 0.9929 - val_loss: 0.2546 - val_accuracy: 0.9540 - val_precision: 0.9500 - val_recall: 0.9878 - val_f1_score: 0.9683
+Epoch 66/100
+44/44 [==============================] - ETA: 0s - loss: 0.2044 - accuracy: 0.9907 - precision: 0.9911 - recall: 0.9955 - f1_score: 0.9932
+Epoch 66: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_66.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.2044 - accuracy: 0.9907 - precision: 0.9911 - recall: 0.9955 - f1_score: 0.9932 - val_loss: 0.2506 - val_accuracy: 0.9555 - val_precision: 0.9712 - val_recall: 0.9661 - val_f1_score: 0.9682
+Epoch 67/100
+44/44 [==============================] - ETA: 0s - loss: 0.2009 - accuracy: 0.9914 - precision: 0.9921 - recall: 0.9961 - f1_score: 0.9940
+Epoch 67: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_67.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.2009 - accuracy: 0.9914 - precision: 0.9921 - recall: 0.9961 - f1_score: 0.9940 - val_loss: 0.2463 - val_accuracy: 0.9555 - val_precision: 0.9661 - val_recall: 0.9720 - val_f1_score: 0.9686
+Epoch 68/100
+44/44 [==============================] - ETA: 0s - loss: 0.1974 - accuracy: 0.9914 - precision: 0.9922 - recall: 0.9955 - f1_score: 0.9938
+Epoch 68: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_68.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.1974 - accuracy: 0.9914 - precision: 0.9922 - recall: 0.9955 - f1_score: 0.9938 - val_loss: 0.2452 - val_accuracy: 0.9598 - val_precision: 0.9610 - val_recall: 0.9841 - val_f1_score: 0.9721
+Epoch 69/100
+44/44 [==============================] - ETA: 0s - loss: 0.1953 - accuracy: 0.9917 - precision: 0.9923 - recall: 0.9951 - f1_score: 0.9936
+Epoch 69: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_69.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.1953 - accuracy: 0.9917 - precision: 0.9923 - recall: 0.9951 - f1_score: 0.9936 - val_loss: 0.2444 - val_accuracy: 0.9540 - val_precision: 0.9711 - val_recall: 0.9638 - val_f1_score: 0.9671
+Epoch 70/100
+44/44 [==============================] - ETA: 0s - loss: 0.1953 - accuracy: 0.9896 - precision: 0.9900 - recall: 0.9952 - f1_score: 0.9925
+Epoch 70: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_70.keras
+44/44 [==============================] - 534s 12s/step - loss: 0.1953 - accuracy: 0.9896 - precision: 0.9900 - recall: 0.9952 - f1_score: 0.9925 - val_loss: 0.2416 - val_accuracy: 0.9526 - val_precision: 0.9657 - val_recall: 0.9678 - val_f1_score: 0.9663
+Epoch 71/100
+44/44 [==============================] - ETA: 0s - loss: 0.1911 - accuracy: 0.9910 - precision: 0.9910 - recall: 0.9965 - f1_score: 0.9936
+Epoch 71: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_71.keras
+44/44 [==============================] - 529s 12s/step - loss: 0.1911 - accuracy: 0.9910 - precision: 0.9910 - recall: 0.9965 - f1_score: 0.9936 - val_loss: 0.2392 - val_accuracy: 0.9555 - val_precision: 0.9640 - val_recall: 0.9741 - val_f1_score: 0.9686
+Epoch 72/100
+44/44 [==============================] - ETA: 0s - loss: 0.1869 - accuracy: 0.9921 - precision: 0.9927 - recall: 0.9966 - f1_score: 0.9946
+Epoch 72: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_72.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.1869 - accuracy: 0.9921 - precision: 0.9927 - recall: 0.9966 - f1_score: 0.9946 - val_loss: 0.2380 - val_accuracy: 0.9540 - val_precision: 0.9676 - val_recall: 0.9678 - val_f1_score: 0.9672
+Epoch 73/100
+44/44 [==============================] - ETA: 0s - loss: 0.1851 - accuracy: 0.9921 - precision: 0.9928 - recall: 0.9958 - f1_score: 0.9943
+Epoch 73: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_73.keras
+44/44 [==============================] - 534s 12s/step - loss: 0.1851 - accuracy: 0.9921 - precision: 0.9928 - recall: 0.9958 - f1_score: 0.9943 - val_loss: 0.2375 - val_accuracy: 0.9583 - val_precision: 0.9555 - val_recall: 0.9878 - val_f1_score: 0.9712
+Epoch 74/100
+44/44 [==============================] - ETA: 0s - loss: 0.1837 - accuracy: 0.9910 - precision: 0.9922 - recall: 0.9951 - f1_score: 0.9936
+Epoch 74: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_74.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.1837 - accuracy: 0.9910 - precision: 0.9922 - recall: 0.9951 - f1_score: 0.9936 - val_loss: 0.2335 - val_accuracy: 0.9583 - val_precision: 0.9574 - val_recall: 0.9859 - val_f1_score: 0.9712
+Epoch 75/100
+44/44 [==============================] - ETA: 0s - loss: 0.1846 - accuracy: 0.9878 - precision: 0.9889 - recall: 0.9937 - f1_score: 0.9911
+Epoch 75: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_75.keras
+44/44 [==============================] - 533s 12s/step - loss: 0.1846 - accuracy: 0.9878 - precision: 0.9889 - recall: 0.9937 - f1_score: 0.9911 - val_loss: 0.2354 - val_accuracy: 0.9569 - val_precision: 0.9521 - val_recall: 0.9898 - val_f1_score: 0.9704
+Epoch 76/100
+44/44 [==============================] - ETA: 0s - loss: 0.1800 - accuracy: 0.9903 - precision: 0.9921 - recall: 0.9944 - f1_score: 0.9931
+Epoch 76: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_76.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.1800 - accuracy: 0.9903 - precision: 0.9921 - recall: 0.9944 - f1_score: 0.9931 - val_loss: 0.2282 - val_accuracy: 0.9569 - val_precision: 0.9628 - val_recall: 0.9778 - val_f1_score: 0.9698
+Epoch 77/100
+44/44 [==============================] - ETA: 0s - loss: 0.1749 - accuracy: 0.9924 - precision: 0.9932 - recall: 0.9967 - f1_score: 0.9949
+Epoch 77: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_77.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.1749 - accuracy: 0.9924 - precision: 0.9932 - recall: 0.9967 - f1_score: 0.9949 - val_loss: 0.2274 - val_accuracy: 0.9569 - val_precision: 0.9625 - val_recall: 0.9780 - val_f1_score: 0.9699
+Epoch 78/100
+44/44 [==============================] - ETA: 0s - loss: 0.1870 - accuracy: 0.9824 - precision: 0.9855 - recall: 0.9891 - f1_score: 0.9870
+Epoch 78: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_78.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.1870 - accuracy: 0.9824 - precision: 0.9855 - recall: 0.9891 - f1_score: 0.9870 - val_loss: 0.3365 - val_accuracy: 0.8678 - val_precision: 0.9856 - val_recall: 0.8264 - val_f1_score: 0.8984
+Epoch 79/100
+44/44 [==============================] - ETA: 0s - loss: 0.1990 - accuracy: 0.9720 - precision: 0.9801 - recall: 0.9808 - f1_score: 0.9796
+Epoch 79: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_79.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.1990 - accuracy: 0.9720 - precision: 0.9801 - recall: 0.9808 - f1_score: 0.9796 - val_loss: 0.2289 - val_accuracy: 0.9540 - val_precision: 0.9697 - val_recall: 0.9654 - val_f1_score: 0.9672
+Epoch 80/100
+44/44 [==============================] - ETA: 0s - loss: 0.1742 - accuracy: 0.9889 - precision: 0.9913 - recall: 0.9933 - f1_score: 0.9922
+Epoch 80: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_80.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.1742 - accuracy: 0.9889 - precision: 0.9913 - recall: 0.9933 - f1_score: 0.9922 - val_loss: 0.2327 - val_accuracy: 0.9540 - val_precision: 0.9569 - val_recall: 0.9796 - val_f1_score: 0.9679
+Epoch 81/100
+44/44 [==============================] - ETA: 0s - loss: 0.1664 - accuracy: 0.9924 - precision: 0.9928 - recall: 0.9970 - f1_score: 0.9948
+Epoch 81: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_81.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.1664 - accuracy: 0.9924 - precision: 0.9928 - recall: 0.9970 - f1_score: 0.9948 - val_loss: 0.2328 - val_accuracy: 0.9540 - val_precision: 0.9515 - val_recall: 0.9855 - val_f1_score: 0.9680
+Epoch 82/100
+44/44 [==============================] - ETA: 0s - loss: 0.1662 - accuracy: 0.9910 - precision: 0.9919 - recall: 0.9955 - f1_score: 0.9936
+Epoch 82: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_82.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.1662 - accuracy: 0.9910 - precision: 0.9919 - recall: 0.9955 - f1_score: 0.9936 - val_loss: 0.2294 - val_accuracy: 0.9540 - val_precision: 0.9533 - val_recall: 0.9836 - val_f1_score: 0.9680
+Epoch 83/100
+44/44 [==============================] - ETA: 0s - loss: 0.1626 - accuracy: 0.9924 - precision: 0.9925 - recall: 0.9971 - f1_score: 0.9948
+Epoch 83: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_83.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.1626 - accuracy: 0.9924 - precision: 0.9925 - recall: 0.9971 - f1_score: 0.9948 - val_loss: 0.2244 - val_accuracy: 0.9526 - val_precision: 0.9730 - val_recall: 0.9599 - val_f1_score: 0.9661
+Epoch 84/100
+44/44 [==============================] - ETA: 0s - loss: 0.1637 - accuracy: 0.9899 - precision: 0.9916 - recall: 0.9946 - f1_score: 0.9930
+Epoch 84: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_84.keras
+44/44 [==============================] - 534s 12s/step - loss: 0.1637 - accuracy: 0.9899 - precision: 0.9916 - recall: 0.9946 - f1_score: 0.9930 - val_loss: 0.2222 - val_accuracy: 0.9511 - val_precision: 0.9550 - val_recall: 0.9775 - val_f1_score: 0.9659
+Epoch 85/100
+44/44 [==============================] - ETA: 0s - loss: 0.1600 - accuracy: 0.9914 - precision: 0.9919 - recall: 0.9954 - f1_score: 0.9935
+Epoch 85: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_85.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.1600 - accuracy: 0.9914 - precision: 0.9919 - recall: 0.9954 - f1_score: 0.9935 - val_loss: 0.2196 - val_accuracy: 0.9511 - val_precision: 0.9656 - val_recall: 0.9657 - val_f1_score: 0.9652
+Epoch 86/100
+44/44 [==============================] - ETA: 0s - loss: 0.1565 - accuracy: 0.9928 - precision: 0.9935 - recall: 0.9964 - f1_score: 0.9949
+Epoch 86: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_86.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.1565 - accuracy: 0.9928 - precision: 0.9935 - recall: 0.9964 - f1_score: 0.9949 - val_loss: 0.2183 - val_accuracy: 0.9497 - val_precision: 0.9603 - val_recall: 0.9694 - val_f1_score: 0.9644
+Epoch 87/100
+44/44 [==============================] - ETA: 0s - loss: 0.1548 - accuracy: 0.9928 - precision: 0.9935 - recall: 0.9965 - f1_score: 0.9949
+Epoch 87: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_87.keras
+44/44 [==============================] - 533s 12s/step - loss: 0.1548 - accuracy: 0.9928 - precision: 0.9935 - recall: 0.9965 - f1_score: 0.9949 - val_loss: 0.2206 - val_accuracy: 0.9555 - val_precision: 0.9553 - val_recall: 0.9836 - val_f1_score: 0.9690
+Epoch 88/100
+44/44 [==============================] - ETA: 0s - loss: 0.1548 - accuracy: 0.9903 - precision: 0.9911 - recall: 0.9956 - f1_score: 0.9932
+Epoch 88: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_88.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.1548 - accuracy: 0.9903 - precision: 0.9911 - recall: 0.9956 - f1_score: 0.9932 - val_loss: 0.2172 - val_accuracy: 0.9497 - val_precision: 0.9637 - val_recall: 0.9657 - val_f1_score: 0.9642
+Epoch 89/100
+44/44 [==============================] - ETA: 0s - loss: 0.1529 - accuracy: 0.9914 - precision: 0.9914 - recall: 0.9964 - f1_score: 0.9938
+Epoch 89: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_89.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.1529 - accuracy: 0.9914 - precision: 0.9914 - recall: 0.9964 - f1_score: 0.9938 - val_loss: 0.2264 - val_accuracy: 0.9468 - val_precision: 0.9403 - val_recall: 0.9878 - val_f1_score: 0.9632
+Epoch 90/100
+44/44 [==============================] - ETA: 0s - loss: 0.1523 - accuracy: 0.9899 - precision: 0.9920 - recall: 0.9941 - f1_score: 0.9929
+Epoch 90: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_90.keras
+44/44 [==============================] - 536s 12s/step - loss: 0.1523 - accuracy: 0.9899 - precision: 0.9920 - recall: 0.9941 - f1_score: 0.9929 - val_loss: 0.2297 - val_accuracy: 0.9425 - val_precision: 0.9365 - val_recall: 0.9859 - val_f1_score: 0.9602
+Epoch 91/100
+44/44 [==============================] - ETA: 0s - loss: 0.1506 - accuracy: 0.9910 - precision: 0.9928 - recall: 0.9944 - f1_score: 0.9935
+Epoch 91: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_91.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.1506 - accuracy: 0.9910 - precision: 0.9928 - recall: 0.9944 - f1_score: 0.9935 - val_loss: 0.2120 - val_accuracy: 0.9540 - val_precision: 0.9731 - val_recall: 0.9619 - val_f1_score: 0.9671
+Epoch 92/100
+44/44 [==============================] - ETA: 0s - loss: 0.1480 - accuracy: 0.9914 - precision: 0.9919 - recall: 0.9953 - f1_score: 0.9936
+Epoch 92: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_92.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.1480 - accuracy: 0.9914 - precision: 0.9919 - recall: 0.9953 - f1_score: 0.9936 - val_loss: 0.2103 - val_accuracy: 0.9526 - val_precision: 0.9604 - val_recall: 0.9735 - val_f1_score: 0.9666
+Epoch 93/100
+44/44 [==============================] - ETA: 0s - loss: 0.1441 - accuracy: 0.9921 - precision: 0.9931 - recall: 0.9960 - f1_score: 0.9944
+Epoch 93: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_93.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.1441 - accuracy: 0.9921 - precision: 0.9931 - recall: 0.9960 - f1_score: 0.9944 - val_loss: 0.2083 - val_accuracy: 0.9540 - val_precision: 0.9622 - val_recall: 0.9735 - val_f1_score: 0.9675
+Epoch 94/100
+44/44 [==============================] - ETA: 0s - loss: 0.1427 - accuracy: 0.9917 - precision: 0.9919 - recall: 0.9966 - f1_score: 0.9942
+Epoch 94: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_94.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.1427 - accuracy: 0.9917 - precision: 0.9919 - recall: 0.9966 - f1_score: 0.9942 - val_loss: 0.2049 - val_accuracy: 0.9540 - val_precision: 0.9695 - val_recall: 0.9657 - val_f1_score: 0.9671
+Epoch 95/100
+44/44 [==============================] - ETA: 0s - loss: 0.1399 - accuracy: 0.9932 - precision: 0.9933 - recall: 0.9969 - f1_score: 0.9951
+Epoch 95: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_95.keras
+44/44 [==============================] - 535s 12s/step - loss: 0.1399 - accuracy: 0.9932 - precision: 0.9933 - recall: 0.9969 - f1_score: 0.9951 - val_loss: 0.2053 - val_accuracy: 0.9526 - val_precision: 0.9622 - val_recall: 0.9715 - val_f1_score: 0.9665
+Epoch 96/100
+44/44 [==============================] - ETA: 0s - loss: 0.1377 - accuracy: 0.9932 - precision: 0.9936 - recall: 0.9970 - f1_score: 0.9953
+Epoch 96: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_96.keras
+44/44 [==============================] - 530s 12s/step - loss: 0.1377 - accuracy: 0.9932 - precision: 0.9936 - recall: 0.9970 - f1_score: 0.9953 - val_loss: 0.2049 - val_accuracy: 0.9540 - val_precision: 0.9623 - val_recall: 0.9735 - val_f1_score: 0.9676
+Epoch 97/100
+44/44 [==============================] - ETA: 0s - loss: 0.1361 - accuracy: 0.9932 - precision: 0.9934 - recall: 0.9970 - f1_score: 0.9952
+Epoch 97: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_97.keras
+44/44 [==============================] - 542s 12s/step - loss: 0.1361 - accuracy: 0.9932 - precision: 0.9934 - recall: 0.9970 - f1_score: 0.9952 - val_loss: 0.2026 - val_accuracy: 0.9511 - val_precision: 0.9640 - val_recall: 0.9678 - val_f1_score: 0.9655
+Epoch 98/100
+44/44 [==============================] - ETA: 0s - loss: 0.1344 - accuracy: 0.9932 - precision: 0.9928 - recall: 0.9969 - f1_score: 0.9948
+Epoch 98: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_98.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.1344 - accuracy: 0.9932 - precision: 0.9928 - recall: 0.9969 - f1_score: 0.9948 - val_loss: 0.2020 - val_accuracy: 0.9540 - val_precision: 0.9641 - val_recall: 0.9715 - val_f1_score: 0.9674
+Epoch 99/100
+44/44 [==============================] - ETA: 0s - loss: 0.1328 - accuracy: 0.9932 - precision: 0.9932 - recall: 0.9968 - f1_score: 0.9950
+Epoch 99: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_99.keras
+44/44 [==============================] - 531s 12s/step - loss: 0.1328 - accuracy: 0.9932 - precision: 0.9932 - recall: 0.9968 - f1_score: 0.9950 - val_loss: 0.2020 - val_accuracy: 0.9540 - val_precision: 0.9605 - val_recall: 0.9757 - val_f1_score: 0.9677
+Epoch 100/100
+44/44 [==============================] - ETA: 0s - loss: 0.1314 - accuracy: 0.9932 - precision: 0.9935 - recall: 0.9970 - f1_score: 0.9952
+Epoch 100: saving model to E:\MAIN PROJECT\FILTERD CODES\data splitting\trained models\VGG16\VGG16_fused_1\VGG16_fused_epoch_100.keras
+44/44 [==============================] - 532s 12s/step - loss: 0.1314 - accuracy: 0.9932 - precision: 0.9935 - recall: 0.9970 - f1_score: 0.9952 - val_loss: 0.2046 - val_accuracy: 0.9526 - val_precision: 0.9532 - val_recall: 0.9822 - val_f1_score: 0.9673
